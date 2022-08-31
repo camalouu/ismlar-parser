@@ -10,7 +10,7 @@ Example:
 
 node program.js Yahudiycha 2
 
-To merge all data into single sorted json run
+To merge all data into single sorted json run:
 
 node merge_program.js
 ```
