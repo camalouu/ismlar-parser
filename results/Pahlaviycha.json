@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rustam",
+    "nat": "Pahlaviycha",
+    "nameDesc": "\"Avesto\"dagi Raodastan so‘zidan yasalgan bo‘lib, ulkan gavdali, qudratli, botir, yengilmas, dovyurak, jasur, matonatli, bahodir. Abulqosim Firdavsiyning \"Shohnoma\" dostonidagi Zol o‘g‘lining ismi."
+  },
+  {
+    "name": "Rustamali",
+    "nat": "Pahlaviycha",
+    "nameDesc": "Rustamdek kuchli, qudratli o‘g‘ilni Ali o‘z panohida asrasin"
+  },
+  {
+    "name": "Sino",
+    "nat": "Pahlaviycha",
+    "nameDesc": "Donishmand, hakim, olim yoki keksa, mo‘ysafid, ya’ni uzoq umr ko‘rsin"
+  },
+  {
+    "name": "Suhrob",
+    "nat": "Pahlaviycha",
+    "nameDesc": "Qizil yog‘du, yoqut, la’l. Bu nom \"Shohnoma\" dostoni qahramoni Rustamning ismidir."
+  }
+]

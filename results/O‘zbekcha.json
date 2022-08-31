@@ -1,0 +1,5022 @@
+[
+  {
+    "name": "Yovjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yovbosar, Yovbosdi ismlarining eq.shakli"
+  },
+  {
+    "name": "Yozbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoz (bahor)da tug‘ilgan martabali, e’zozli qiz"
+  },
+  {
+    "name": "Yozbika",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yozbeka"
+  },
+  {
+    "name": "Yozgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoz (ko‘klam)da tug‘ilgan go‘zal qiz yoki ko‘klam chechagi"
+  },
+  {
+    "name": "Yozjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoz (ko‘klam)da tug‘ilgan aziz, e’zozli qiz"
+  },
+  {
+    "name": "Yozjuma",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yozning juma kuni tug‘ilgan bola yoki eht.: Niyozjuma (qar.)"
+  },
+  {
+    "name": "Yozmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoz (ko‘klam)da tavallud topgan bola o‘qimishli, bilimdon bo‘lsin"
+  },
+  {
+    "name": "Yozpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yozda tug‘ilgan o‘g‘il po‘latdek mahkam, chidamli bo‘lsin"
+  },
+  {
+    "name": "Yuksal",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulg‘aysin, unib o‘ssin, to’lei baland, iqboli porloq, martabasi ulug‘, hayot yo‘li cho‘qqilarga olib chiquvchi bo‘lsin."
+  },
+  {
+    "name": "Yulduzxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan tolei porloq bola"
+  },
+  {
+    "name": "Yunusoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yunus (Yunus+oy)"
+  },
+  {
+    "name": "Yursinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bola sog‘u omon yursin"
+  },
+  {
+    "name": "Yusufbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yusuf (Yusuf+bek)"
+  },
+  {
+    "name": "Yusufberdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yusuf va Berdi"
+  },
+  {
+    "name": "Yusufkeldi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yusufdek go‘zal o‘g‘il tug‘ildi"
+  },
+  {
+    "name": "Yusufqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohnig Yusufdek chiroyli bandasi, quli"
+  },
+  {
+    "name": "Yusufturdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yusufdek chiroyli yigit sog‘u salomat tursin, yashasin"
+  },
+  {
+    "name": "Yusufxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yusufdek chiroyli, ko‘rkam o‘g‘il ulg‘ayib baland martabalarga erishsin"
+  },
+  {
+    "name": "Yuzjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qadrli, aziz o‘g‘il ulg‘ayib yuzga kirsin"
+  },
+  {
+    "name": "Yuzliqo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuzi berkilgan holda, pardali bo‘lib tug‘ilgan qiz"
+  },
+  {
+    "name": "Bekposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar naslidan bo‘lgan mag‘rur, viroqli, baland martabali qiz yoki erka, hur qiz"
+  },
+  {
+    "name": "Bekshod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali bolaning umri quvonchlarga to‘la bo‘lsin"
+  },
+  {
+    "name": "Bektilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mansabdor (beklar)larning eng afzali, ulug‘i, yaxshisi yoki beklar avlodiga mansub ajoyib yigit. Eht. Tillodek mustahkam bola"
+  },
+  {
+    "name": "Bekxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub ulug‘ martabali bola yoki xo‘jalar naslidan bo‘lgan joni qattiq, yashovchi bola"
+  },
+  {
+    "name": "Bekzod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bek farzandi, beklar avlodiga, zotiga manusub bola. Viqorli, kuchli, mard bo‘lsin."
+  },
+  {
+    "name": "Bekzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bekzod"
+  },
+  {
+    "name": "Berdiniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh bergan tufha, sovg‘a yoki Allohdan o‘tinib olingan bola"
+  },
+  {
+    "name": "Berdixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh ato qilgan xo‘jalar nasliga mansub bola"
+  },
+  {
+    "name": "Berdixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tangri bergan xolli bola"
+  },
+  {
+    "name": "Berdiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh bergan bola o‘zgalarga hamdam, hamroh bo‘lib o‘ssin yoki berganning o‘zi (Alloh) yor bo‘lib, qo‘llab yursin"
+  },
+  {
+    "name": "Betiqand",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoqimtoy, jozibali; ko‘xlik, kelishgan qiz"
+  },
+  {
+    "name": "Bibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xonim, beka, oyim; yuqori tabaqaga mansub ayol. Bu so‘z o‘tmishda mashhur turk ayollarining faxriy unvoni bo‘lgan va “xonim, beka, uy sohibasi“ ma’nolarini anglatgan. o‘zbek shevalarida bibi - buvi, ona, qaynona, ma’nolarini anglatadi, qizlar ismining birinchi, ikkinchi qismida kelib hurmat, erkalash munosabatlarini hamda “qiz“, “qiz bola“ ma’nosini anglatadi"
+  },
+  {
+    "name": "Bibiaxtar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Porloq yulduzli, ya’ni baxtli, saodatmand qiz"
+  },
+  {
+    "name": "Bibidur",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Marvarid, durdek aziz, qimmatli va ulug‘ martabali qiz"
+  },
+  {
+    "name": "Bibigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali va guldek go‘zal qiz"
+  },
+  {
+    "name": "Bibigulshod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bibi va Gulshod"
+  },
+  {
+    "name": "Bibijahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Olamdagi eng mo‘tabar qiz; tengsiz, benazir qiz"
+  },
+  {
+    "name": "Bibijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali, jondan aziz qiz"
+  },
+  {
+    "name": "Bibimaryam",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aynan: achchiq yoki Allohning xohlagani, yoqtirgani, suyuklisi"
+  },
+  {
+    "name": "Bibiniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yolvorib, iltijolar qilib tilab olingan mo‘tabar qiz"
+  },
+  {
+    "name": "Ulashmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oiladagilarga ulashib ketsin va kelishgan o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "Ulbas",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bas, yetar, keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Ulboz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eht.: Ulbozor (qar.)"
+  },
+  {
+    "name": "Ulbozor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bozor kuni tug‘ilgan ushbu qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Uldon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Uldono. Shakllari: Uldonoy, Uldonxon"
+  },
+  {
+    "name": "Uldono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu aqlli, dono, zukko, aqlli, fahm-farosatli qizdan keyingi farzand o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Uljahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Olamga tatuvchi bu qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Uljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, jondan aziz bo‘lmish bu qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Ulug'oy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek go'zal, ko'rkam, maftunkor. Qalbi ulug', keng"
+  },
+  {
+    "name": "Ulug‘bibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buyuk, mo‘tabar ayol"
+  },
+  {
+    "name": "Ulug‘mirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buyuk hukmron (shahzoda, amirzodalar) yoki o‘qimishli yigitlarning ulug‘i, sardori, e’zozlisi"
+  },
+  {
+    "name": "Ulug‘poshsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eng hurmatli, e’zozli qiz"
+  },
+  {
+    "name": "Ulug‘shoh",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buyuk shoh, hukmron, shohlarning ulug‘I, mo‘tabari"
+  },
+  {
+    "name": "Ulug‘sora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ulug‘ va Sora"
+  },
+  {
+    "name": "Ulug‘xo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan buyuk, mo‘tabar bola yoki xo‘jalarning eng ulug‘I, e’zozlisi, mo‘tabari"
+  },
+  {
+    "name": "Ulug‘zoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘lar, aslzodalar, kuch-qudratln, hukmdor yoki beklar avlodining farzandi, buyuk sardori, boshlig'i"
+  },
+  {
+    "name": "Ulxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘g‘ilxo‘ja - xo‘jalar avlodiga mansub o‘g‘il yoki eht.: Ulug‘xo‘ja (qar.)"
+  },
+  {
+    "name": "Unarmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Unar va Mirza"
+  },
+  {
+    "name": "Undurboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baland, yuksak; mo‘tabar, e’zozli"
+  },
+  {
+    "name": "Xolmatto‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xolmat va To‘ra"
+  },
+  {
+    "name": "Ovulmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ovul va Mirza"
+  },
+  {
+    "name": "Oybahor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bahor payti tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oybaland",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek yuksak, ulug‘vor bola"
+  },
+  {
+    "name": "Oybarchin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oy yuzli, oy chehrali qiz, iboli, hayoli, oqko‘ngil, qalbi pok, toza."
+  },
+  {
+    "name": "Oybarno",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ko‘rkam, zebo qiz"
+  },
+  {
+    "name": "Oybas",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Endi qiz tug‘ilmasin, qiz tug‘ilishi to‘xtasin"
+  },
+  {
+    "name": "Oybibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va baland martabal qiz"
+  },
+  {
+    "name": "Oybo‘ston",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va hayoti bo‘stondek yashnagan bo‘lsin yoki oydek go‘zal va bo‘stondek yashnagan qiz"
+  },
+  {
+    "name": "Oybon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oybonu yoki Oybaland ismlarining eq.shakli"
+  },
+  {
+    "name": "Oybonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzodalar naslidan bo‘lgan oydek suluv qiz"
+  },
+  {
+    "name": "Oybozor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bozor kuni tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oychehra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oyyuzli, oydek zebo qiz"
+  },
+  {
+    "name": "Oychilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chillada (eng issiq yoki eng sovuq paytda) tug‘ilgan oydek suluv, zebo qiz. Sol: Chilla, Chillaxon"
+  },
+  {
+    "name": "Oychiroq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oy yog‘dusi, oy nur sochib turgan kechada tug‘ilgan qiz yoki hayoti oy va chiroqdek nurli bo‘lsin"
+  },
+  {
+    "name": "Oydagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak toleli, baxtli qiz"
+  },
+  {
+    "name": "Oydan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oydona"
+  },
+  {
+    "name": "Oydo‘st",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oyning yo‘ldoshi, do‘sti; baxtli, omadli bola"
+  },
+  {
+    "name": "Oydon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oyning ulfati, do‘sti yoki oydek zebo qiz"
+  },
+  {
+    "name": "Oydono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ko‘rkam va aqlli, dono qiz"
+  },
+  {
+    "name": "Oygilos",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gilos pishgan paytda tug‘ilgan oydek ko‘rkam qiz"
+  },
+  {
+    "name": "Idrisxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Idris (Idris+xon)"
+  },
+  {
+    "name": "Ifora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hushbo‘y, yoqimli iforli,  nafis hid taratuvchi."
+  },
+  {
+    "name": "Ilg‘or",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Doimo oldinda boruvchi, barcha jabhada yakdil inson."
+  },
+  {
+    "name": "Ilyosqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ilyos payg‘ambarning quli, xizmatkori"
+  },
+  {
+    "name": "Ilyosxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ilyos (Ilyos+xo‘ja)"
+  },
+  {
+    "name": "Ilyosxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ilyos"
+  },
+  {
+    "name": "Ilzara",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Millatning gavhari, tillasi demakdir. Qimmatbaho tosh oltindek qadri buyuk, ko‘zni qamashtiruvchi chiroyga ega bo‘lsin."
+  },
+  {
+    "name": "Indira",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Indu - oy demakdir. Indira veda dinidagi iloha (xudo)lardan biri va u momaqaldiroq, yomg‘ir xudosi hisoblanadi."
+  },
+  {
+    "name": "Injagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nozik, zebo gul"
+  },
+  {
+    "name": "Inoqmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Inoq va Mirza"
+  },
+  {
+    "name": "Ipakgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ipak kabi muloyim va guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Iqbol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxt, farovonlik, omad, muvaffaqiyat ma’nosini anglatadi. Baxtlt-taxtli, hayoti farovonlikda o‘tib, muvaffaqiyatlar doimo yo‘ldoshi bo‘lsin ma’nosida."
+  },
+  {
+    "name": "Irfon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aql-zakovatli, ilm-fan taraqqiyotida bilmi bilan yangiliklar yarata oladigan kuchli bilim sohibi bo‘lsin.."
+  },
+  {
+    "name": "Is’hoqqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Is’hoq (as)ning quli, sodiq xizmatkori"
+  },
+  {
+    "name": "Is’hoqto‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Is’hoq va To‘ra"
+  },
+  {
+    "name": "Ishchanboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mehnatkash, g‘ayratli. Eht.: Eshjonboy (qar.)"
+  },
+  {
+    "name": "Iskandar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mard, qo‘rqmas, dovyurak, azamat, pahlavon, jasurlarning sardori yoki himoya qiluvchi, asrovchi, muhofazakor. Buyuk sarakarda Iskandardek bo‘lsin ma’nosida qo‘yiladi."
+  },
+  {
+    "name": "Iskandarbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar avlodidan bo‘lgan bola. Iskandar (qar.)dek jasur bo‘lsin"
+  },
+  {
+    "name": "Iskandarqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Iskandar (Iskandar+qul)"
+  },
+  {
+    "name": "Ismadiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ismlarning umumiy jamlanmasidir. Ismi jismiga monand bo‘lib, vataniga, xaliqiga, vafodor, jonini berguvchi yetuk inson bo‘lsin."
+  },
+  {
+    "name": "Tolgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sambit guldek go‘zal qiz"
+  },
+  {
+    "name": "Tolnoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Soch o‘rimlari (kokillari) tovlanuvchi, ko‘zni qamashtiruvchi qiz"
+  },
+  {
+    "name": "Tongchiroq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tong yorug‘ida tug‘ilgan bola yoki tong payti berilgan nur, baxt"
+  },
+  {
+    "name": "Tonggul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tong saharda tug‘ilgan guldek suluv qiz yoki tong guli, tong qizi"
+  },
+  {
+    "name": "Tongpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tong, sahar payti tug‘ilgan, po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Tongtoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sahar payti tug‘ilgan xol (toj)li qiz"
+  },
+  {
+    "name": "Topishnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Topib olingan xol (nor)li qiz"
+  },
+  {
+    "name": "Tortiqxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tortiq"
+  },
+  {
+    "name": "Toshbi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mahkam va baland martabalai qiz"
+  },
+  {
+    "name": "Toshbob",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshga o‘xshash, toshmonand, ya’ni mustahkam bola"
+  },
+  {
+    "name": "Toshbodom",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek va bodomdek mustahkam qiz yoki bodom gullaganda tug‘ilgan toshdek mahkam qiz"
+  },
+  {
+    "name": "Toshbon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mahkam, toshni o‘yuvchi bola"
+  },
+  {
+    "name": "Toshjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mustahkam jonday aziz, qadrli bola toshdek qattiq, ya’ni yashovchi bola"
+  },
+  {
+    "name": "Toshkan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshkentda tug‘ilgan yoki otasi (biror qarindoshi) Toshkentga ketganda yoki kelganda tug‘ilgan bola"
+  },
+  {
+    "name": "Toshkentboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshkent odamlaridek bag‘ri keng, ko‘rkam, chiroyli, mehmondo‘st, yetimlarni boshini silaydigan, murruvatli yigit bo‘lib ulg‘aysin"
+  },
+  {
+    "name": "Toshmatilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning mustahkam, yashovchi bandasi"
+  },
+  {
+    "name": "Toshmir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Toshmirza"
+  },
+  {
+    "name": "Toshmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mahkam, yashovchi va o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "Toshniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘tinib, so‘rab olingan bola toshdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Toshnovvot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mustahkam va novvotdek shirin, suyukli qiz"
+  },
+  {
+    "name": "To‘xtaoxun",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘xta va Oxun"
+  },
+  {
+    "name": "To‘xtapo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘xtasin, yashasin va po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "To‘xtaposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘xta va Poshsha"
+  },
+  {
+    "name": "To‘xtarxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan bola to‘xtar, yashab ketar deb umid qilamiz"
+  },
+  {
+    "name": "To‘xtaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli bo‘lib tug‘ilgan qiz to‘xtasin, yashasin, umri uzoq bo‘lsin"
+  },
+  {
+    "name": "To‘ybibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kuni tug‘ilgan qiz"
+  },
+  {
+    "name": "To‘ybobo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kuni tug‘ilgan va bobosi ismi bilan atalgan bola. Qar. To‘y va Bobo"
+  },
+  {
+    "name": "To‘ybozor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bozor kuni tug‘ilgan o‘g‘ilning hayoti shodlik, quvonchlarga to‘la bo‘lsin"
+  },
+  {
+    "name": "To‘ychi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y-tomosha, shodiyona, bayram kunlari tug‘ilgan bola yoki sog‘-omon ulg‘ayib ko‘p to‘ylar, shodiyonalar egasi bo‘lsin."
+  },
+  {
+    "name": "To‘ygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kuni tug‘ilgan guldek go‘zal qiz"
+  },
+  {
+    "name": "To‘yinbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘yindiq"
+  },
+  {
+    "name": "To‘yjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kuni tug‘ilgan, jondek aziz, suyukli bola"
+  },
+  {
+    "name": "To‘ymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kuni tug‘ilgan o‘g‘il mirzalardek kelishimli, o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "To‘yniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kunlari tug‘ilgan va Allohga yolvorib, iltijolar qilib topilgan bola yoki Allohning to‘y kunlari bergan tuhfasi"
+  },
+  {
+    "name": "To‘ypo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y kunlari tug‘ilgan o‘g‘il po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "To‘yxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y-tomosha kunlari tug‘ilgan xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "To‘yzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘y qizi, to‘y kuni tug‘ilgan qiz"
+  },
+  {
+    "name": "Tog‘aygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tog‘asining uyida tug‘ilgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Tog‘aymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tog‘ay va Mirza"
+  },
+  {
+    "name": "Tog‘ayniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tog‘ay va Niyoz"
+  },
+  {
+    "name": "Erkin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hur, ozod, erkin, mustaqil, hech kimga qaram yoki to’be bo‘lmagan bola."
+  },
+  {
+    "name": "Erkiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ozod; hur, erki o‘ziga yor bo‘lgan shodon, baxtiyor bola"
+  },
+  {
+    "name": "Erkon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Erki o'zida, kondek boylikka ega bo'lsin"
+  },
+  {
+    "name": "Ermirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mard, jasur va mirzalardek kelishgan, o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "Erni",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Erniyoz"
+  },
+  {
+    "name": "Erniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib, so‘rab olingan dovyurak o‘g‘il va Allohning tuhfasi, ehsoni bo‘lgan mard bola"
+  },
+  {
+    "name": "Ernor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nor (qizil xol) bilan tug‘ilgan jasur bola yoki nor (nor tuya)dek qudratli bola"
+  },
+  {
+    "name": "Ernoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Asli: Ernaz, Ernazar (qar.)"
+  },
+  {
+    "name": "Erpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dovyurak, jasur, mard o‘g‘il. Po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Ershod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jasur hamda quvnoq, shodon o‘g‘il; jasur, dovyurak boshliq, yo‘lboshchi. Eht.: Irshod (qar.)"
+  },
+  {
+    "name": "Erto‘g‘rul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shunqor, lochindek jasoratli, mard, kuchli, pahlavon, baquvvat, qo‘rqmas, azamat, jasur o‘g‘il bo‘lsin."
+  },
+  {
+    "name": "Ertoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toj (qizil xol), ulkan xol bilan tug‘ilgan, jasoratli bola"
+  },
+  {
+    "name": "Erxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan jasur, botir bola"
+  },
+  {
+    "name": "Esfira",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Osmondagi yulduzdek charog‘on, porloq bo‘lsin. Hayot yo‘li nurli, yorug‘, farovonlikdan iborat bo‘lsin."
+  },
+  {
+    "name": "Eshchon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eshjon"
+  },
+  {
+    "name": "Eshgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ota-onasi (aka-opalari) ning hamrohi, yo‘ldoshi bo‘lgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Eshimmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eshim va Mirza"
+  },
+  {
+    "name": "Eshimxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eshim va Xo‘ja"
+  },
+  {
+    "name": "Eshjo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Do‘stlarning do‘sti, sodiq do‘st, hamroh"
+  },
+  {
+    "name": "Eshjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, qadrdon, aziz do‘st, hamroh"
+  },
+  {
+    "name": "Musoqo‘zi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Muso va Qo‘zi"
+  },
+  {
+    "name": "Musoqora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Muso va Qora"
+  },
+  {
+    "name": "Musoqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Muso (as)ga tobe, payg‘ambarga sodiq yoki Allohning Muso ismli bandasi"
+  },
+  {
+    "name": "Musotoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Muso (as) nomi berilgan aziz, suyukli o‘g‘il"
+  },
+  {
+    "name": "Musoxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Muso (Muso+xon)"
+  },
+  {
+    "name": "Muzayana",
+    "nat": "O‘zbekcha",
+    "nameDesc": "\"Bezangan, chiroyli degan ma’noni anglatib, ko‘zni qamashtiruvchi go‘zalikka ega bo‘lsin degan niyatda qo‘llaniladi."
+  },
+  {
+    "name": "Nagima",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jannat, saodat ma’nosini anglatadi. Jamiki yaxshi xislatlarni o‘zida jo aylab, jannatiy inson bo‘lsin ma’nosida."
+  },
+  {
+    "name": "Nargila",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nergis ismining turkcha shakli bo‘lib, chiroyli, maftunkor, dilrabo qiz bo‘lsin."
+  },
+  {
+    "name": "Nilgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘k rangli guldek go‘zal qiz"
+  },
+  {
+    "name": "Nilufar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nilufar (savsan) o‘simligidek chiroyli, zebo qiz, o‘ziga maftun etuvchi."
+  },
+  {
+    "name": "Norxonoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuzida yoki tanasida nori bor, oydek go'zal, hayoli, iffatli, latofatli zebo qiz"
+  },
+  {
+    "name": "Novgat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Novqat (muqaddas qadamjoy)ni ziyorat qilgach tug‘ilgan bola yoki navxat - yosh yigit, navjuvon, navqiron, o‘smir"
+  },
+  {
+    "name": "Nurlana",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti baxtga to‘liq bo‘lib, farishtali, nurli, maftunkor qiz bo‘lsin."
+  },
+  {
+    "name": "Nurzar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayot yo‘li doimo nurafshon, nurli bo‘lsin. Umri davomida ziyon-zaxmat ko‘rmasin. Oltindek qimmatli, qadri baland bo‘lsin ma’nosida."
+  },
+  {
+    "name": "O‘choq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Obro‘li, e’zozli; o‘chog‘I doimo cho‘g‘li, boy-badavlat bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu e’zozli qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilbodom",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bodom gullaganda tug‘ilgan yoki bodomdek qattiq qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilbozor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bozor kuni tug‘ilgan bu qizdan keyingi farzand o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ildavlat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Biz uchun davlat, qut hisoblangan ushbu qizdan keyin o‘g‘il tug‘ilsin"
+  },
+  {
+    "name": "O‘g‘ildono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu aqlli, bilimdon qizdan keyin o‘g‘il bo‘lishini orzu qilamiz"
+  },
+  {
+    "name": "O‘g‘ilgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu guldek suluv qizdan keyin o‘g‘il tug‘ilsin"
+  },
+  {
+    "name": "O‘g‘iljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu suyukli qizdan keyin o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilkeldi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘g‘il o‘rniga kelgan qiz yoki keyingisi o‘g‘il bo‘ladi deb, umid qilamiz"
+  },
+  {
+    "name": "O‘g‘ilnabot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Novvotdek shirin qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bu qizdan keyingisi o‘g‘il bo‘lsin deb iltijo qilamiz yoki o‘g‘il o‘rniga berilgan tuhfa, sovg‘a"
+  },
+  {
+    "name": "O‘g‘ilnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xolli bu qizdan keyingi bola o‘g‘il bo‘lishini istaymiz"
+  },
+  {
+    "name": "O‘g‘ilnozik",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu muloyim, dilbar qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilobod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu baxtiyor, tolei baland qizdan keyin o‘g‘il tug‘ilsin"
+  },
+  {
+    "name": "O‘g‘iloy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bu  oydek suluv, go‘zal qizdan keyingi farzand o‘g‘il bo‘lsin niyatida. Qiz farzandi ko‘p ota-onalar keyingisi o‘g‘il bo‘lishini niyat qilib shu ismni qo‘yadilar."
+  },
+  {
+    "name": "O‘g‘ilpochcha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘g‘ilposhsha"
+  },
+  {
+    "name": "O‘g‘ilposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bu ulug‘ martabali, e’zozli qizdan keyin o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilshakar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirin, yoqimtoy bu qizdan keyingi farzandimiz o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilshirin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirin, yoqimtoy bu qizdan keyin o‘g‘il tug‘ilsin"
+  },
+  {
+    "name": "O‘g‘ilshod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bu quvnoq, shodon qizdan keyingi bola o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilsora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning yaxshisi, sarasi bo‘lgan bu qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘iltoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toj (xol) bilan tug‘ilgan bu qizdan keyingi bola o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘ilxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan ushbu qizdan keyingisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "O‘g‘on",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘g‘onberdi (qar.) ismining eq.shakli"
+  },
+  {
+    "name": "O‘g‘onberdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tangri, Alloh ato qilgan, baxsh etgan bola, Allohning tuhfasi"
+  },
+  {
+    "name": "O‘gabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Og‘a va Bibi"
+  },
+  {
+    "name": "Elpok",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning pokiza, halol farzandi"
+  },
+  {
+    "name": "Elshod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eli, xalqiga shodlik, quvonch keltiruvchi bola yoki elning shodon, baxtiyor farzandi yohud elning rahbari, sardori"
+  },
+  {
+    "name": "Elshon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulg‘ayib elning shoni, shuhrati bo‘lsin yoki elning shonli, shavkatli farzandi"
+  },
+  {
+    "name": "Eltoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning badanida tol (xol) bilan tug‘ilgan farzandi yoki ulg‘ayib elning hukmdori, tojdori bo‘lsin"
+  },
+  {
+    "name": "Eltojli",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning yoqimtoy, suyukli farzandi"
+  },
+  {
+    "name": "Elxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulg‘ayib elning sardori, oqsoqoli, xo‘jasi bo‘lsin"
+  },
+  {
+    "name": "Elzod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "El, yurt farzandi, vatanim degan bola, yurti uchun jonini ayamaydigan mard va jasur o‘g‘lon."
+  },
+  {
+    "name": "Elzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "El, yurt farzandi"
+  },
+  {
+    "name": "Enajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining yoki buvisining ismini olgan jondek aziz qiz"
+  },
+  {
+    "name": "Enamgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasi yoki buvisi ismini olgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Enaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining ismi berilgan  xolli, xoldor qiz"
+  },
+  {
+    "name": "Erbachcha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dovyurak, jasur bola yoki dovyurak qahramon farzandi"
+  },
+  {
+    "name": "Erdono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dovyurak, mard va bilimdon yigit bo‘lsin"
+  },
+  {
+    "name": "Ergash",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ota-onasiga yoki aka-opalariga ergashib, esh bo‘lib, hamroh, hamdam bo‘lib yursin yohud kokilli bola."
+  },
+  {
+    "name": "Ergashgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasiga yoki opalariga ergashib o‘ssin va guldek go‘zal qiz bo‘lsin"
+  },
+  {
+    "name": "Ergashmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ergash va Mirza"
+  },
+  {
+    "name": "Ergashxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub o‘g‘il otasiga yoki aka-opalariga ergashib yursin"
+  },
+  {
+    "name": "Erjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mard, dovyurak hamda suyukli, aziz bola"
+  },
+  {
+    "name": "Erkagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Erkin, baxtiyor, ozod qiz"
+  },
+  {
+    "name": "Erkaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan suyukli, erkatoy bola"
+  },
+  {
+    "name": "Qorategin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kuchli, qudratli shohzoda, hukmron"
+  },
+  {
+    "name": "Qoraxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub qudratli, jasur bola"
+  },
+  {
+    "name": "Qoraxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli xol bilan tug‘ilgan qiz"
+  },
+  {
+    "name": "Qorbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Birinchi qor yog‘ganda tug‘ilgan qiz"
+  },
+  {
+    "name": "Qorjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Birinchi qor yog‘ayotganda tug‘ilgan suyukli bola"
+  },
+  {
+    "name": "Qorxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Birinchi qor yog‘ganda tug‘ilgan xolli qiz. Eht.: Qoraxol"
+  },
+  {
+    "name": "Qozoq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘rinishi qozoqqa o‘xshagani uchun shunday atalgan yoki erkin, hur, ozod yohud uyga qozoq mehmon kelganda yoki qozoqlar orasida tug‘ilgan bola ham shunday nomlanadi. Shakllari: Qozoqboy, Qozoqxon"
+  },
+  {
+    "name": "Qulbozor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning bozor kuni tug‘ilgan bandasi.Sol: Bozorqul"
+  },
+  {
+    "name": "Quldor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qullar egasi, boy-badavlat hukmdor yoki o‘g‘illari ko‘p bo‘lgan kishi"
+  },
+  {
+    "name": "Quljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, erka qul, ya’ni o‘g‘il"
+  },
+  {
+    "name": "Qulmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mirzaqul"
+  },
+  {
+    "name": "Qulniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan yolvorib, so‘rab olingan bola yoki Allohning tuhfasi, sovg‘asi. Sol: Niyozqul"
+  },
+  {
+    "name": "Qulxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning xo‘jalar naslidan bo‘lgan bandasi  (quli)"
+  },
+  {
+    "name": "Qulzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qullar nasliga mansub qiz"
+  },
+  {
+    "name": "Qurbug‘a",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kuchli, qudratli, jasur; yengilmas, bahodir"
+  },
+  {
+    "name": "Qurdosh",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boshqa bolalarga tengqur, tengdosh bo‘lib o‘ssin"
+  },
+  {
+    "name": "Qurishjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qurush - mahkam, mustahkam yoki qurch  -  quruch - istak, tilak, orzu, ya’ni istalgan, orzu qilingan bola. Yana sol: Qurch  -  Quruch"
+  },
+  {
+    "name": "Quron",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘paysin, unsin (o‘ssin) yoki quran (oltoy - mo‘gulcha) - guran  -  xuran - “uch“, “uchinchi“, ya’ni oiladagi uchinchi bola"
+  },
+  {
+    "name": "Qutjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, quli va aziz, suyukli bola"
+  },
+  {
+    "name": "Qutlibibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, saodatli va baland martabali qiz"
+  },
+  {
+    "name": "Og‘ajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Og‘asining ismi berilgan aziz, suyukli bola"
+  },
+  {
+    "name": "Og‘ayor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Janob, ya’ni Alloh do‘st, madadkor bo‘lsin"
+  },
+  {
+    "name": "Ollodot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh bergan, ato qilgan bola"
+  },
+  {
+    "name": "Olmagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Olma guldek go‘zal, chiroyli qiz yoki olma gullaganda tug‘ilgan qiz"
+  },
+  {
+    "name": "Oltinbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tilla (zar)dek qimmatli, aslzoda qiz"
+  },
+  {
+    "name": "Oltingul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oltindek qimmatli va guldek suluv qiz"
+  },
+  {
+    "name": "Oltinnovvot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oltindek qimmatli va novvotdek shirin, suyukli qiz"
+  },
+  {
+    "name": "Oltinpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oltindek qimmatli va po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Oltintoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida xol (belgi) bilan tug‘ilgan oltindek qimmatli, aziz bola"
+  },
+  {
+    "name": "Oltinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan tilladek mo‘tabar, qimmatli bola"
+  },
+  {
+    "name": "Oltinxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida xol bilan tug‘ilgan oltindek qimmatli aziz qiz"
+  },
+  {
+    "name": "Oltiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oldingi farzandlarga esh, hamdam bo‘lib tug‘ilgan bola"
+  },
+  {
+    "name": "Onabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining ismini olgan baland martabali qiz"
+  },
+  {
+    "name": "Onabuvi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining ismi berilgan qiz"
+  },
+  {
+    "name": "Onagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining ismi berilgan guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Onajahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining ismi berilgan jahonga tatirlik qiz"
+  },
+  {
+    "name": "Onajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Marhum buvisi yoki onasining ismi berilgan jondek aziz qiz"
+  },
+  {
+    "name": "Oppoqxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub mo‘tabar, muqaddas bola"
+  },
+  {
+    "name": "Oqgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oqguldek chiroyli, yoqimtoy qiz"
+  },
+  {
+    "name": "Oqjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dunyodagi eng baxtiyor; pokiza, pokdomon qiz"
+  },
+  {
+    "name": "Keldimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oilaga o‘qimishi, mirzo yigit keldi yoki qar. Keldi va Mirza"
+  },
+  {
+    "name": "Keldiniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Iltijolar qilib, yolg‘orib erishilgan bola"
+  },
+  {
+    "name": "Keldixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub bola tug‘ildi"
+  },
+  {
+    "name": "Keldiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oilaga do‘st, hamdam keldi"
+  },
+  {
+    "name": "Kelsinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan bola oramizga kelsin, yashasin"
+  },
+  {
+    "name": "Kengashmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kengash (Kengash+Mirza)"
+  },
+  {
+    "name": "Kengashxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kengash va Xo‘ja"
+  },
+  {
+    "name": "Kenjabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oilaning e’zozli, jajjji, kenjatoy qizi"
+  },
+  {
+    "name": "Kenjabonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oilaning so‘nggi va ulug‘ martabali farzandi"
+  },
+  {
+    "name": "Kenjagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oilaning guldek ko‘rkam kenjatoy qizi"
+  },
+  {
+    "name": "Kenjamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kenja va Mirza"
+  },
+  {
+    "name": "Kenjapo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kenjatoy, so‘nggi farzand po‘latdek mahkam bo‘lsin"
+  },
+  {
+    "name": "Kenjaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan oxirgi, kenjatoy bola"
+  },
+  {
+    "name": "Kerakgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kutilgan, lozim bo‘lgan guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Kichikgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bolalarning eng kichigi, kenjasi bo‘lgan guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Kichikmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kichik va Mirza"
+  },
+  {
+    "name": "Kichikxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan kenjatoy farzand"
+  },
+  {
+    "name": "Kimsanmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kimsan va Mirza"
+  },
+  {
+    "name": "Kimsanxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan chiroyli yigit"
+  },
+  {
+    "name": "Kishvarmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kishvar va Mirza"
+  },
+  {
+    "name": "Buvxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining ismi berilgan xolli qiz"
+  },
+  {
+    "name": "Buvzavlon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Temir kishandek mustahkam bola"
+  },
+  {
+    "name": "Buvzor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining nomi bilan atalgan, zorlanib kutilgan bola"
+  },
+  {
+    "name": "Buvzulon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvzavlon"
+  },
+  {
+    "name": "Charos",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Katta qora ko‘zli qiz, ko‘zlari charosdek chiroyli, fusunkor, jozibali, nafis, latofatli, suluv va go‘zal qiz."
+  },
+  {
+    "name": "Chekmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Chekboy"
+  },
+  {
+    "name": "Chimboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chim (soz, ajriqzor)dek mahkam, mustahkam bola yoki to‘silgan, himoyalangan yohud chimboy urug‘iga mansub bola. Eht: Chinboy."
+  },
+  {
+    "name": "Chimkent",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chimkent shahri nomiga nisbatan berilgan ism"
+  },
+  {
+    "name": "Chindiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘lkaning rost, haqiqiy, ya’ni umrini uzoq qilib berilgan farzand"
+  },
+  {
+    "name": "Chinmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umri haqqoniy, to‘liq qilib berilgan bola ulg‘ayib mirzalardek yigit bo‘lsin"
+  },
+  {
+    "name": "Chinpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Haqiqiy, sof po‘latdek mustahkam bola yoki umri to‘liq qilib berilgan po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Chinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umri rost, to‘liq qilib berilgan xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "Cho‘lbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dashtda (cho‘lda) tug‘ilgan baland martabali qiz yoki mushtoq bo‘lib yurib erishilgan qiz"
+  },
+  {
+    "name": "Cho‘lpon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tong yulduzi, yorug‘ (Venera) yulduzi, ya’ni to’lei baland, iqboli porloq, yuksak saodatli bola."
+  },
+  {
+    "name": "Cho‘ribibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Cho‘ri (Cho‘ri+bibi)"
+  },
+  {
+    "name": "Cho‘tpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Cho‘t (tesha) va po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Chuchukgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirin, yoqimtoy va guldek go‘zal qiz"
+  },
+  {
+    "name": "Dadabek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklardan bo‘lgan bobosining xotirasini abadiylashtirish. Ota qoni ulangan barcha ota–bobolarining nomini eslatib turuvchi ustun, mard, jasur, paxlavon, pok va toat ibodat etuvchi yigit"
+  },
+  {
+    "name": "Dadajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Dada (Dada+jon)"
+  },
+  {
+    "name": "Dadamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dadasining ismi berilgan bola o‘qimishli, mirza yigit bo‘lsin"
+  },
+  {
+    "name": "Oqjo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oq ko‘ngil, sofdil, samimiy do‘st"
+  },
+  {
+    "name": "Oqkenja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kenjatoy o‘g‘il baxtli, omadli bo‘lsin"
+  },
+  {
+    "name": "Oqlimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, omadli va o‘qimishli, kelishgan (mirza) yigit bo‘lsin"
+  },
+  {
+    "name": "Oqmard",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, omadli va dovyurak yigit bo‘lsin"
+  },
+  {
+    "name": "Oqmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli hamda saxodxon, o‘qimishli (mirza) yigir bo‘lsin"
+  },
+  {
+    "name": "Oqmulla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli hamda o‘qimishli (mulla) yigit bo‘lsin"
+  },
+  {
+    "name": "Oqniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tilab, iltijolar qilib olingan bola baxtli, omadli bo‘lsin"
+  },
+  {
+    "name": "Oqnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xol bilan tug‘ilgan bola baxtli bo‘lsin yoki oq rangli notuyadek kuchli, qudratli"
+  },
+  {
+    "name": "Oqnozik",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nozir, dilbar qiz baxtli bo‘lsin"
+  },
+  {
+    "name": "Oqpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, omadli va po‘latdek mustahkam yoki oqpo‘lat urug‘iga mansub bo‘lgan bola"
+  },
+  {
+    "name": "Oqqol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oqxol"
+  },
+  {
+    "name": "Oqxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan baxtli bola"
+  },
+  {
+    "name": "Oqxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida oq xol bilan tug‘ilgan qiz yoki oq xolli qiz baxtli bo‘lsin yohud oqqol - orzuimiz, armonimiz bo‘lgan qiz"
+  },
+  {
+    "name": "Oqyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oq ko‘ngilli do‘st, o‘rtoq yoki qar. Oqyorqin"
+  },
+  {
+    "name": "Oqziyo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti nurli, baxtga to‘la bo‘lsin"
+  },
+  {
+    "name": "Oqzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzoda, oqsuyak; muqaddas oila (avlod) farzandi"
+  },
+  {
+    "name": "Orazbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rozbibi"
+  },
+  {
+    "name": "Orazgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rozgul"
+  },
+  {
+    "name": "Orazjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rozjahon"
+  },
+  {
+    "name": "Orazmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rozmirza"
+  },
+  {
+    "name": "Turdipo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yashasin, tursin va po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Turdiposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Turuvchi, yashovchi, ulug‘ martabali qiz"
+  },
+  {
+    "name": "Turdisho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdi (Turdi+Shoh)"
+  },
+  {
+    "name": "Turditoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol (toj) bilan tug‘ilgan qiz yashasin, tursin"
+  },
+  {
+    "name": "Turdixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan qiz yashasin, umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Turdiyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ota-onasiga (oiladagi bolalarga) esh, o‘rtoq bo‘lib tursin, yashasin"
+  },
+  {
+    "name": "Turg‘unbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baland martabali qizning umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Turg‘unmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sobit turib yashab ketsin va mirzalardek kelishgan, o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "Turg‘unpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mustahkam bo‘lib tursin"
+  },
+  {
+    "name": "Turg‘unsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sobit, mahkam tursin va ulug‘ martabalar egasi bo‘lsin"
+  },
+  {
+    "name": "Turg‘untoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol (toj, qizil xol) bilan tug‘ilgan sobit turadigan, yashaydigan qiz"
+  },
+  {
+    "name": "Turjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli bola tursin, yashasin, umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Turkmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turk va Mirza"
+  },
+  {
+    "name": "Turnaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Turnalar kelganda tug‘ilgan xolli qiz"
+  },
+  {
+    "name": "Turniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘tinib, yolvorib so‘rab olingan bola tursin, yashasin"
+  },
+  {
+    "name": "Tursunbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sog‘ tursin, yashasin va baland martabali qiz bo‘lsin"
+  },
+  {
+    "name": "Tursungul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek chiroyli qiz sog‘ tursin, yashasin"
+  },
+  {
+    "name": "Tursunmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sog‘-omon bo‘lib, mirzalardek kelishgan, o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "Tursunniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan yalinib-yolvorib olingan bola tursin, yashasin yoki Allohning tuhfasi, ehsoni bo‘lgan bola sog‘ tursin, umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Tursunoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sog‘ bo‘lsin, yashasin, umri uzoq  va oydek suluv, go‘zal, chiroyli bo‘lsin."
+  },
+  {
+    "name": "Biynor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xolli yo‘lboshchi, rahnamo qiz"
+  },
+  {
+    "name": "Biypari",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Go‘zallarning, zebolarning sardori"
+  },
+  {
+    "name": "Biyrajab",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Rajab oyida tug‘ilgan yo‘lboshchi, sardor qiz yoki boy-badavlat qiz"
+  },
+  {
+    "name": "Biyron",
+    "nat": "O‘zbekcha",
+    "nameDesc": "O‘tkir tilli, chechan, pokiza qiz. Eht. Bibinor (qar.)"
+  },
+  {
+    "name": "Bo‘ritoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ri terisi yoki jag‘idan o‘tkazilgan va tojli (qizil xolli) qiz"
+  },
+  {
+    "name": "Bo‘rixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ri jag‘I (terisi) dan o‘tkazilgan va xol bilan tug‘ilgan qiz"
+  },
+  {
+    "name": "Bo‘rongul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ron paytida tug‘ilga, guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Bo‘ronmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ron payti tug‘ilgan bola, bilimdon, donishmand bo‘lsin yoki bo‘ron kuni tug‘ilgan hamma mirzalar nasliga mansub bola"
+  },
+  {
+    "name": "Bo‘ronniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ron kuni berilgan tuhfa, bo‘ron paytda ato qilingan o‘g‘il"
+  },
+  {
+    "name": "Bo‘ronsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘ron kuni tug‘ilgan va shohlar nasliga mansub bola yoki bo‘ron kuni tug‘ilgan bola ulug‘ martaba egasi bo‘lsin"
+  },
+  {
+    "name": "Bo‘stongul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘stonga mansub gul, chiroyli, zebo qiz"
+  },
+  {
+    "name": "Bo‘tagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bo‘taloq, erka, suyukli qiz yoki bo‘taguldek chiroyli qiz"
+  },
+  {
+    "name": "Boldono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boldek shirin, aqlli, dono qiz"
+  },
+  {
+    "name": "Bolgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gulning boldek shirin, yoqimtoy qiz yoki boldek shirin va guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Boljahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boldek shirin va jahonga tatuvchi qiz yoki olamdagi eng qadrli, shirin qiz"
+  },
+  {
+    "name": "Boljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Asaldek shirin, qardli qiz"
+  },
+  {
+    "name": "Bolniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirin, suyukli hamda Allohning in’omi bo‘lgan bola yoki Tangridan yolg‘orib so‘rab olingan suyukli bola"
+  },
+  {
+    "name": "Bolshakar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Asal va shakardek shirin, suyukli qiz"
+  },
+  {
+    "name": "Boltaniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan so‘rab, iltijo qilib olingan bolaning umri boltadek mustahkam bo‘lsin yoki kindigi bolta bilan kesilgan bola. Oilada bolalar turmasa shunday ism qo‘yishadi"
+  },
+  {
+    "name": "Boltapo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bolta va po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Qarbug‘a",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jasur, yengilmas, qahramon"
+  },
+  {
+    "name": "Qashqargul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qashqarguldek zebo, go‘zal qiz"
+  },
+  {
+    "name": "Qilichmamat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qilichmuhammad"
+  },
+  {
+    "name": "Qilichmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qilichdek o‘tkir, mustahkam va mirzalardek o‘qimishli, kelishgan yigit bo‘lsin"
+  },
+  {
+    "name": "Qilichniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan iltijolar qilib so‘rab olingan qilichdek o‘tkir bola"
+  },
+  {
+    "name": "Qilichyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan tilanib, so‘rab olingan qilichdek mustahkam bola. Qar. Qilichniyoz"
+  },
+  {
+    "name": "Qipchoq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qipchoq qabilasiga mansub bola, qipchoq (qadimiy turkiy qabila) farzandi"
+  },
+  {
+    "name": "Qirg‘iz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bolaning ko‘rinishi qirg‘izga o‘xshagani uchun berilgan ism yoki qirg‘izlar orasida tug‘ilgan bola"
+  },
+  {
+    "name": "Qirmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Go‘zal, chiroyli qiz, xusnijamol qiz"
+  },
+  {
+    "name": "Qirmizgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil guldek go‘zal, zebo qiz"
+  },
+  {
+    "name": "Qirnoq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulg‘ayib ota-onasining xizmatkori bo‘lsin"
+  },
+  {
+    "name": "Qizbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar, e’zozli qiz yoki buvisining ismi berilgan qiz"
+  },
+  {
+    "name": "Qizilgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil guldek zebo, yoqimtoy qiz"
+  },
+  {
+    "name": "Qizjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qadrli, suyukli qiz"
+  },
+  {
+    "name": "Qizlarbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qizlar (Qizlar+bibi)"
+  },
+  {
+    "name": "Qizlardono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning aqllisi, bilimdoni, donosi"
+  },
+  {
+    "name": "Qizlargul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning guldek chiroylisi"
+  },
+  {
+    "name": "Qizlarjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qizlar"
+  },
+  {
+    "name": "Qizlarraso",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning aqllisi, farosatlisi"
+  },
+  {
+    "name": "Qizlarsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning sultoni, shohi"
+  },
+  {
+    "name": "Durjonoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli xusn sohibasi, dur, gavhar, oydek go'zal qiz"
+  },
+  {
+    "name": "Durustxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ma’qul, barkamol, mukammal"
+  },
+  {
+    "name": "Egammirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh bergan bola ulg‘ayib, mirzalardek o‘qimishli, kelishgan yigit bo‘lsin"
+  },
+  {
+    "name": "Egamniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib so‘rab olingan bola yoki Allohning tuhfasi, ehsoni"
+  },
+  {
+    "name": "Egamyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh o‘zi yor bo‘lsin, qo‘llab yursin"
+  },
+  {
+    "name": "El’yor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "O‘z elining do‘sti, hamdami, hamdardi, o‘z elini sevuvchi, vatanparvar, fidokor inson."
+  },
+  {
+    "name": "Elbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning, yurtining baland martabali, suyukli qiz"
+  },
+  {
+    "name": "Elbon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Elbonu yoki elning, xalqning qo‘riqchisi, posboni, g‘amxo‘ri"
+  },
+  {
+    "name": "Eldo‘st",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘z elining do‘sti, g‘amxo‘ri, elning sodiq farzandi"
+  },
+  {
+    "name": "Eldor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qabila, ellat boshlig‘i, yetakchisi, sardori, shoh, hukmron, podishoh, amir. Ulg‘ayib yuqori martabalar egasi, elning yo‘lboshchisi, rahnamosi, hukmdori, yetakchisi bo‘lsin."
+  },
+  {
+    "name": "Eldora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qabila, elat boshlig‘i, sardori, hukmron ayol. Yuqori martaba egasi, elning yo‘lboshchisi, rahnamosi, hukmdori bo‘lsin yoki o‘z eliga, yurtiga mansub, millatiga munosib qiz."
+  },
+  {
+    "name": "Eldorxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eldor (Eldor+xon)"
+  },
+  {
+    "name": "Elfiruz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning baxtli, omadli, g‘olib, muzaffar farzandi"
+  },
+  {
+    "name": "Eljo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eldo‘st, Elyor"
+  },
+  {
+    "name": "Eljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning suyukli, aziz farzandi"
+  },
+  {
+    "name": "Elmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning o‘qimishli, bilimli farzandi yoki elning sardori, boshlig‘i bo‘lsin"
+  },
+  {
+    "name": "Elniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh elga tuhfa qilgan bola"
+  },
+  {
+    "name": "Elnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning (xalqning) qizil xolli (norli) o‘g‘li yoki el o‘g‘li nordek (nortuya) kuchli, baquvvat, chidamli bo‘lsin"
+  },
+  {
+    "name": "Elnora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning, xalqning, holli yoki norli qizi. Tanasida, yuzida holi bor yoki nori bor qiz."
+  },
+  {
+    "name": "Elnoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Elning nozli, erka farzandi"
+  },
+  {
+    "name": "Farina",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli, go‘zal, sohibjamol; nafis, muloyim, aqlli, o‘qimishli, yoqimtoy, ota-onasiga yaqinlariga mehribon, saxiy"
+  },
+  {
+    "name": "Faxrina",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yaxshi fazilatlarni o‘zida mujassam qilgan, barchaga o‘rnak qilib ko‘rsatishga arzirli qiz bo‘lsin. Qadri baland, g‘ururli inson bo‘lsin ma’nosida."
+  },
+  {
+    "name": "Fayoza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qo‘li ochiq, sahiy degan ma’noni anglatadi. Muruvvatli inson bo‘lib voyaga yetsin degan niyatda qo‘llanadi."
+  },
+  {
+    "name": "Go‘zalbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzodalar, hukmdorlar nasliga mansub zebo qiz"
+  },
+  {
+    "name": "Go‘zalgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli, sohibjamol qiz, qizlarning eng ko‘rklisi"
+  },
+  {
+    "name": "Go‘zaljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jondan aziz ko‘rkam qiz"
+  },
+  {
+    "name": "Go‘zalposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Obro‘li, martabali zebo qiz yoki go‘zal qizlar sardori"
+  },
+  {
+    "name": "Gulafzo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gul, hammadan ziyoda, ya’ni eng a’lo degan ma’noni anglatadi. Hayotda oqila, mo‘min, muslima bo‘lib, yaxshi inson bo‘lsin ma’nosida"
+  },
+  {
+    "name": "Gulbarshin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ipak guli degan ma’noni anglatadi. Guldek chiroyli, nafis, ko‘zni qamashtiruvchi husnga ega bo‘lsin."
+  },
+  {
+    "name": "Gulhida",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gulning hidi, hush ifori, guldek iforli, go‘zal, nafis, nozik."
+  },
+  {
+    "name": "Havro",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yaxshi. o‘ylash ma’nosini anglatib, barchaga doimo yaxshilib ulashib, ko‘ngilni ko‘tarib yursin deganidir."
+  },
+  {
+    "name": "Hindboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yovvosh, beozor, muloyim, mo‘min-qobil bola yoki qora bola"
+  },
+  {
+    "name": "Hindixon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yovvosh, muloyim, odobli qiz"
+  },
+  {
+    "name": "Hinduboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Hindboy"
+  },
+  {
+    "name": "Hojalbu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Hojarbu"
+  },
+  {
+    "name": "Hojalbuvi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Hojarbuvi"
+  },
+  {
+    "name": "Hojaloy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Hojaroy"
+  },
+  {
+    "name": "Hojara",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Hojar (Hojar+a)"
+  },
+  {
+    "name": "Ibrohimqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ibrohim payg‘ambarning quli, sodiq xizmatkori"
+  },
+  {
+    "name": "Idrisqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Idris (as)ning quli, sodiq xizmatkori"
+  },
+  {
+    "name": "Ko‘rpabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘rpa va Bibi"
+  },
+  {
+    "name": "Ko‘rpagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek ko‘rkam kenjatoy qiz"
+  },
+  {
+    "name": "Kumushbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kumushdke aziz va baland martabali qiz"
+  },
+  {
+    "name": "Kumushbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kumush va Bonu"
+  },
+  {
+    "name": "Kumushgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kumushdek qimmatli va guldek zebo"
+  },
+  {
+    "name": "Kumushtoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kumushdek qimmatli va badanida xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Kunoxun",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Quyoshga sig‘inuvchi, topinuvchi yoki quyoshdek nurli, muallim, ustoz"
+  },
+  {
+    "name": "Madraxim",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Muhammadraxim ismiga ma’nodosh bo‘lib, Muhammad (sa.v)ning nomi bilan bog‘langan holda, eng ulug‘ inson, rahmdil ma’nosini anglatadi."
+  },
+  {
+    "name": "Mallabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli qiz"
+  },
+  {
+    "name": "Mallagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli va guldek go‘zal qiz"
+  },
+  {
+    "name": "Mallamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Malla va Mirza"
+  },
+  {
+    "name": "Mallaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub malla sochli bola"
+  },
+  {
+    "name": "Mannonto‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mannon va To‘ra"
+  },
+  {
+    "name": "Maya",
+    "nat": "O‘zbekcha",
+    "nameDesc": "May oyida tug‘ilgan qiz yoki moyadek (tuyadek) yavvosh, muloyim qiz, yohud naslimiz (avlodimiz) asosi bo‘lgan qiz"
+  },
+  {
+    "name": "Mayabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Maya (Maya+bibi)"
+  },
+  {
+    "name": "Mayagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "May oyida tavallud topgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Maylijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglijon"
+  },
+  {
+    "name": "Maylinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglinor"
+  },
+  {
+    "name": "Maynaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Maynadek muloyim va xoldor (xoli bilan tug‘ilgan qiz)"
+  },
+  {
+    "name": "Mayrambibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bayram, hayit kuni tug‘ilgan baland martabali qiz yoki qar. Maryambibi"
+  },
+  {
+    "name": "Dadasardor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Dada va Sardor"
+  },
+  {
+    "name": "Dadashaydo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Dada va Shaydo"
+  },
+  {
+    "name": "Dadaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dadasi nomini olgan, xo‘jalar nasliga mansub bola"
+  },
+  {
+    "name": "Dadaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dadasi nomi berilgan va xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Dargohbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dargohi keng bola bo'lsin, Allohim dargohida qabul qilsin degan ma'noda"
+  },
+  {
+    "name": "Darveshali",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Farzandga muhtoj (gado) bo‘lib yurganda erishilgan bolani Ali qo‘llab yursin yoki o‘zini Alining yo‘liga bag‘ishlaydigan bola"
+  },
+  {
+    "name": "Darxonmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Darxon va Mirza"
+  },
+  {
+    "name": "Davkar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Polvon, pahlavon, bahodir"
+  },
+  {
+    "name": "Dilroz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dil istagi, niyatlari ezgu, qalbi pokiza, beg‘ubor qiz. Boburiylar naslidan bo‘lgan malikaning ismi Dilroz bo‘lgan"
+  },
+  {
+    "name": "Dilruza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qalb hamda taqdir degan ma’noni anglatadi. Qalbi toza, taqdiri chiroyli bo‘lsin."
+  },
+  {
+    "name": "Dilsevar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yurakdan sevuvchi, qalbdan mehr beruvchi, ota-onasi, yaqinlariga menhribon qiz"
+  },
+  {
+    "name": "Dilshoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Quvnoq, baxtiyor, shodon yoki ko‘nglimizni quvonchi bo‘lgan farzand, dili shod bo‘lib yursin yoki qalblarga sevinch, shodu-hurramlik bahsh etuvchi."
+  },
+  {
+    "name": "Dilyara",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qalb, yurakka malham, dilni yayratuvchi deganidir. Barchaning dardiga malham bo‘luvchi, yurakni orziqtirib, qalbni quvonchga to‘ldiruvchi qiz bo‘lsin."
+  },
+  {
+    "name": "Do‘sboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Do‘stboy yoki do‘s - o‘rik pishgan paytda tug‘ilgan bola"
+  },
+  {
+    "name": "Dovudqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dovud (as)ning xizmatkori, quli"
+  },
+  {
+    "name": "Durdigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdigul"
+  },
+  {
+    "name": "Durdijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdijon"
+  },
+  {
+    "name": "Durdinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdinor"
+  },
+  {
+    "name": "Durdiposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdiposhsha"
+  },
+  {
+    "name": "Durdixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Turdixol"
+  },
+  {
+    "name": "Mingbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengbonu"
+  },
+  {
+    "name": "Mingdona",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengdono"
+  },
+  {
+    "name": "Mingjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengjahon"
+  },
+  {
+    "name": "Mingnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengnor"
+  },
+  {
+    "name": "Mingpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengpo‘lat"
+  },
+  {
+    "name": "Mingtilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ming va Tilla"
+  },
+  {
+    "name": "Minxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengxo‘ja yoki Mingxo‘ja"
+  },
+  {
+    "name": "Mirobboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "So‘g ulg‘ayib, suvni taqsimlovchi, suv qo‘riqchisi bo‘lsin"
+  },
+  {
+    "name": "Mirzabek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Savodxon, o‘qimishli va baland martabali, oliy nasabli yoki beklar nasliga mansub o‘qimishli, ilmli. ziyoli bola."
+  },
+  {
+    "name": "Mittixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kichkina xol bilan tug‘ilgan qiz yoki xol bilan tug‘ilgan jajji qiz"
+  },
+  {
+    "name": "Mizrobshoh",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mizrob va Shoh"
+  },
+  {
+    "name": "Momogul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining o‘rniga kelgan va uning usmini olgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Momohavo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "“Bibliya“da yozilishicha, yer yuzidagi birinchi ayol. Odam Atoning xotini, inson zotining onasi Havo - hayot manbai. Qar. Havo"
+  },
+  {
+    "name": "Momokolon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining o‘rniga kelgan va uning nomi berilgan qiz"
+  },
+  {
+    "name": "Momotoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Marhum buvisi o‘rniga berilgan xolli qiz"
+  },
+  {
+    "name": "Momoxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Marhum buvisining o‘rniga kelgan xolli qiz"
+  },
+  {
+    "name": "Muhammadrahim",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Payg‘ambarimiz Muhammad sallolohu alayhi vassallamning nomlaridan olingan. Shuningdek, unga qo‘shimcha qilgan holda saxovatli, rahmdil inson ma’nosida"
+  },
+  {
+    "name": "Musobek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Muso (Muso+bek)"
+  },
+  {
+    "name": "Musoberdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh ato qilgan bolani Muso (as) o‘z panohida asrasin"
+  },
+  {
+    "name": "Musoboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Muso (Muso+boy)"
+  },
+  {
+    "name": "Kiyikbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kiyik va Bibi"
+  },
+  {
+    "name": "Kiyikgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kiyikdek chiroyli va guldek go‘zal qiz"
+  },
+  {
+    "name": "Kiyikmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Kiyik va Mirza"
+  },
+  {
+    "name": "Ko‘charmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘char va Mirza"
+  },
+  {
+    "name": "Ko‘chimmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘chim va Mirza"
+  },
+  {
+    "name": "Ko‘chkinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘chkin va Xo‘ja"
+  },
+  {
+    "name": "Ko‘chmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘ch va Mirza"
+  },
+  {
+    "name": "Ko‘chxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘chish paytida tug‘ilgan xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "Ko‘g‘ay",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘k  -  ko‘g‘ (osmon) kabi buyuk yoki ko‘k ko‘zli bola"
+  },
+  {
+    "name": "Ko‘jak",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulkan, ulug‘, katta"
+  },
+  {
+    "name": "Ko‘jbon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gavdali, dev qomat; bahodir"
+  },
+  {
+    "name": "Ko‘kaltosh",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Emukdosh, bir onani emishgan bolalar, qarindosh"
+  },
+  {
+    "name": "Ko‘kimmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘kim va Mirza"
+  },
+  {
+    "name": "Ko‘kmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘k va Mirza"
+  },
+  {
+    "name": "Ko‘makxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘mak va Xo‘ja"
+  },
+  {
+    "name": "Ko‘paymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘pay va Mirza"
+  },
+  {
+    "name": "Ko‘payxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bolalar safini ko‘paytiruvchi va xol bilan tug‘ilgan qiz"
+  },
+  {
+    "name": "Ko‘pmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘p va Mirza"
+  },
+  {
+    "name": "Ko‘rikmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ko‘rik va Mirza"
+  },
+  {
+    "name": "Ko‘rkamgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek chiroyli qiz"
+  },
+  {
+    "name": "O‘rozjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ro‘za (o‘roza) oyida tug‘ilgan jondek aziz, qadrli boa yoki jondek aziz, baxtiyor bola"
+  },
+  {
+    "name": "O‘rozmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mirzolardek kelishgan, baxtli bola bo‘lsin"
+  },
+  {
+    "name": "O‘rozniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan yalinib, yolvorib olingan baxt, saodat yoki ro‘za oyida berilgan tuhfa, sovg‘a"
+  },
+  {
+    "name": "O‘roztoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli bo‘lib tug‘ilgan qutli bola yoki xosiyatli xolli bola"
+  },
+  {
+    "name": "O‘rozxO‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan baxtli bola yoki ro‘za oyida tug‘ilgan xo‘jalar nasliga mansub bola"
+  },
+  {
+    "name": "O‘rozxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan baxtli, saodatli bola yoki ro‘za oyida tug‘ilgan saodatli bola"
+  },
+  {
+    "name": "O‘tagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan bola(lar) evaziga kelgan guldek suluv qiz"
+  },
+  {
+    "name": "O‘tajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘tagan"
+  },
+  {
+    "name": "O‘taniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan bola(lar) evaziga berilgan tuhfa, ehson"
+  },
+  {
+    "name": "O‘tanpO‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan bolalar evaziga berilgan o‘g‘ilning joni po‘latdek mustahkam bo‘sin"
+  },
+  {
+    "name": "O‘taxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Turmagan bolalar evaziga berilgan xolli qiz"
+  },
+  {
+    "name": "O‘tayor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan bola(lar) evaziga berilgan do‘st, hamdam"
+  },
+  {
+    "name": "O‘tkir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Keskir; mohir, aqilli, zakovatli, o‘tkir. Bilimli, zehnli, ilmli. Dono, ziyrak bola."
+  },
+  {
+    "name": "O‘zbekbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘zbek qiz, o‘zbek farzandi"
+  },
+  {
+    "name": "O‘zganmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘zgan va Mirza"
+  },
+  {
+    "name": "Ochilgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek ko‘rkam qiz kasaldan forig‘ bo‘lsin"
+  },
+  {
+    "name": "Ochilniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Iltijolar qilib so‘rab olingan bola kasaldan forig‘ bo‘lsin"
+  },
+  {
+    "name": "Og‘abek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Og‘a, do‘st, birodar, ishonchli, hamroh, sherik, beklar avlodidan do‘sti uchun tog‘ bo‘lib suyanchiq bo‘la oladigan bola."
+  },
+  {
+    "name": "Og‘abonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Og‘a va Bonu"
+  },
+  {
+    "name": "Og‘agul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Og‘a (Og‘a+gul)"
+  },
+  {
+    "name": "Bayram",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bayram, ayyom, shodiyona, (Hayit) kuni tug‘ilgan bola yoki hayoti shodlikka, umri tantanaga boy bo‘lsin."
+  },
+  {
+    "name": "Bayramgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bayram kuni tavallud topgan guldek zebo qiz"
+  },
+  {
+    "name": "Bayramniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bayram kuni berilgan tuhfa, sovg‘a"
+  },
+  {
+    "name": "Bayramxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bayram kuni tug‘ilgan xo‘jalar nasliga mansub bola"
+  },
+  {
+    "name": "Beg‘amoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "g‘amsiz, qayg‘usiz va oydek suluv qiz"
+  },
+  {
+    "name": "Beg‘amqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning g‘amsiz, qayg‘usiz, baxtiyor bandasi"
+  },
+  {
+    "name": "Begjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bekjon"
+  },
+  {
+    "name": "Begniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bekniyoz"
+  },
+  {
+    "name": "Begnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Beknor"
+  },
+  {
+    "name": "Begzod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar nasliga mansub bola yoki Behzod (qar.)"
+  },
+  {
+    "name": "Bekchon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Begjon, Bekjon"
+  },
+  {
+    "name": "Bekdurdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bekturdi"
+  },
+  {
+    "name": "Bekduvol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aynan: Berk (mustahkam) devor, ya’ni joni qattiq, yashovchi bola"
+  },
+  {
+    "name": "Bekjo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar nasliga mansub o‘g‘il yoki otasi va o‘zidan oldingi bolalarga esh, o‘rtoq bo‘lib o‘ssin"
+  },
+  {
+    "name": "Bekjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar nasliga mansub, jon kabi aziz bola"
+  },
+  {
+    "name": "Bekmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mirzalar, mansabdorlar boshlig‘i, sardori yoki “berk“ - mahkam, mustahkam hamda saodatmand bola"
+  },
+  {
+    "name": "Bekniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar nasliga mansub Allohdan yolg‘orib so‘rab olingan bola yoki Allohning mustahkam qilib berilgan tuhfasi, sovg‘asi"
+  },
+  {
+    "name": "Beknor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar avlodidan bo‘lgan qizil xolli bola"
+  },
+  {
+    "name": "Beknoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklar nasliga bo‘lgan nozli, yoqimtoy qiz"
+  },
+  {
+    "name": "Bekpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek berk, mustahkam bo‘lsin yoki baland martabali bola, po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Bibinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida qizil xol (belgi) bilan tug‘ilgan martabasi baland qiz"
+  },
+  {
+    "name": "Bibinora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Bibinor (Bibinor+a)"
+  },
+  {
+    "name": "Bibinovvot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali, yoqimtoy, shirin qiz"
+  },
+  {
+    "name": "Bibinoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nafis, muloyim, nozli, nafosatli. Eht. Bibinozik, Bibiniyoz (qar.) ismlarining shakli"
+  },
+  {
+    "name": "Bibinozik",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baland martabali, muloyim, nafis, nafosatli qiz"
+  },
+  {
+    "name": "Bibiqand",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirin, dilkash, yoqimtoy qiz"
+  },
+  {
+    "name": "Bibiro‘zi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali qiz rizq-ro‘zli, nasibali bo‘lsin"
+  },
+  {
+    "name": "Bibisanam",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzoda dilbar, baland martabali go‘zal qiz"
+  },
+  {
+    "name": "Bibishahar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shaharda tug‘ilgan qiz, shahar qizi. Eht. Bibishakar (qar.)"
+  },
+  {
+    "name": "Bibishakar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali, shirin, yoqimtoy qiz"
+  },
+  {
+    "name": "Bibitoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toj (xol) bilan tug‘ilgan mo‘tabar qiz yoki ayollarning eng afzali, eng yuksagi"
+  },
+  {
+    "name": "Bibixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan muhtarama, aslzoda qiz"
+  },
+  {
+    "name": "Bibizar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tillodek qimmatli, mo‘tabar, baland martabali qiz"
+  },
+  {
+    "name": "Bibizoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzoda ayollar nasliga mansub qiz yoki aslzoda ayol farzandi"
+  },
+  {
+    "name": "Bibizor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Zor bo‘lib, intiq bo‘lib yurib erishilgan qiz yoki Bibizar (qar.)"
+  },
+  {
+    "name": "Billura",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sof, toza, beg‘ubor, benazir, billur toshidek qimmatli. Pok, nuqsonsiz, ozoda, sarishta qiz."
+  },
+  {
+    "name": "Bilol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Uch kunlik oy, yangi tug‘ilgan oy, (Hilol) yoki sog‘lom bola. Payg‘ambar Muhammad (sollallohu alayhi vasallam)ning sahobalaridan biri bo‘lgan."
+  },
+  {
+    "name": "Birdona",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yolg‘iz, tengsiz, benazir"
+  },
+  {
+    "name": "Birjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Bittagina, birgina bola, ya’ni so‘g bo‘lsin, o‘lmasin yoki bir (ar.) yaxshilik, saxovat"
+  },
+  {
+    "name": "Biymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "O‘qimishlilar, bilimlilarning rahbari, sardori"
+  },
+  {
+    "name": "Eshmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Esh va Mirza"
+  },
+  {
+    "name": "Eshniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Otasiga hamroh, esh bo‘lib yuruvchi, Allohdan o‘tinib so‘rab olingan bola yoki Alloh ato qilgan ehson, tuhfa"
+  },
+  {
+    "name": "Eshnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol (nor) bilan tug‘ilgan bola yoki otasiga do‘st, hamroh bo‘lib yursin va nor (nor tuya)dek baquvvat bo‘lsin"
+  },
+  {
+    "name": "Eshnoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eht.: Eshniyoz"
+  },
+  {
+    "name": "Eshonqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning quli ma’nsoini anglatadi. Yomon illatlardan xoli bo‘lib, haqiqiy mo‘min musulmon farzandi bo‘lib ulg‘aysin."
+  },
+  {
+    "name": "Eshparda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan bola"
+  },
+  {
+    "name": "Eshpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Otasiga va qarindoshlariga hamdam, yo‘ldosh bo‘lib yursin va po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Eshpolvon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pahlavonlarning do‘sti, hamdami, ya’ni sog‘ ulg‘ayib kuchli, qudratli yigit bo‘lsin"
+  },
+  {
+    "name": "Eshxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan do‘st, hamdam bola"
+  },
+  {
+    "name": "Eshyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Do‘stlarning do‘sti, hamrohi; sodiq do‘st, yo‘ldosh"
+  },
+  {
+    "name": "Esjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eshjon"
+  },
+  {
+    "name": "Esliyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aqlli, donolarning hamdami, yo‘lboshi"
+  },
+  {
+    "name": "Esonbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali, aslzoda qiz, eson-omon ulg‘aysin"
+  },
+  {
+    "name": "Esongul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek go‘zal qiz omon-eson ulg‘aysin"
+  },
+  {
+    "name": "Esonniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib so‘rab olingan bola sog‘u salomat bo‘lsin yoki Allohning tuhfasi, ehsoni bo‘lmish o‘g‘il eson-omon ulg‘aysin"
+  },
+  {
+    "name": "Esonpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mustahkam va omon-eson bo‘lsin"
+  },
+  {
+    "name": "Esonxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bola eson-omon bo‘lsin"
+  },
+  {
+    "name": "Esonyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Esonniyoz"
+  },
+  {
+    "name": "Esxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Eshxo‘ja"
+  },
+  {
+    "name": "Faniz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ushbu ism fan so‘zidan olingan bo‘lib, kelajakda ilm-fan taraqqiyotiga o‘z hissasini qo‘shadigan, olim inson bo‘lsin ma’nosida qo‘llanadi."
+  },
+  {
+    "name": "Oraztoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘roztoj"
+  },
+  {
+    "name": "Orazxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rozxo‘ja"
+  },
+  {
+    "name": "Ortiq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida biror ortiqcha belgi, hol, dog‘ bilan tug‘ilgan bola yetarli (ziyoda) bo‘ldi."
+  },
+  {
+    "name": "Ortiqbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida biror ortiqcha belgi bilan tug‘ilgan qiz"
+  },
+  {
+    "name": "Ortiqgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida ortiqlik belgisi bo‘lgan guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Ortiqmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ortiq va Mirza"
+  },
+  {
+    "name": "Ortiqniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida ortiq belgisi bo‘lgan, tilan olingan bola"
+  },
+  {
+    "name": "Ortiqtoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida ortiq belgi - toji bor bola"
+  },
+  {
+    "name": "Ortiqxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida ortiq belgisi bor xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "Ortiqxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida ortiq belgi xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Orziqiz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Orzu-armonimiz bo‘lgan qiz"
+  },
+  {
+    "name": "Orzubek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ne-ne umidlar ila orziqib kutilgan farzand. Farzandim tug‘ilib orzuim amalga oshdi, ishonch, umid ma’nolarini anglatadi."
+  },
+  {
+    "name": "Otabek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shahzoda, xonzoda, beklar boshlig‘i, yetkachisi, sardori; ilg‘or, obro‘-e’tiborli, nasl-nasabli bola."
+  },
+  {
+    "name": "Otajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Otasining ismi berilgan aziz bola"
+  },
+  {
+    "name": "Otamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Ota va Mirza"
+  },
+  {
+    "name": "Otaniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aziz avliyolardan o‘tinib, so‘rab olingan bola"
+  },
+  {
+    "name": "Otaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub bo‘lgan, otasi yoki bobosining ismi berilgan bola"
+  },
+  {
+    "name": "Otayor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avliyolar, muqaddas ruhlar yor bo‘lsin, qo‘llasin yoki otasiga do‘st, hamdam bo‘lib o‘ssin"
+  },
+  {
+    "name": "Otishirin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli, yoqimli ism egasi"
+  },
+  {
+    "name": "Otlimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Otli va Mirza"
+  },
+  {
+    "name": "Bumaryam",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvi va Maryam"
+  },
+  {
+    "name": "Burohila",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvi va Rohila"
+  },
+  {
+    "name": "Busora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvisora va Bibisora"
+  },
+  {
+    "name": "Buvachol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvasining ismini olgan bolaning umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Buvamat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvamuhammad"
+  },
+  {
+    "name": "Buvamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvasi (bobosi)ning nomi berilgan bola o‘qimishli, bilimli yigit bo‘lsin"
+  },
+  {
+    "name": "Buvasher",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvasining ismi qo‘yilgan bola sherdek dovyurak bo‘lsin"
+  },
+  {
+    "name": "Buvchehra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvi va Chehra"
+  },
+  {
+    "name": "Buviayna",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining ismi berilgan pokiza qiz"
+  },
+  {
+    "name": "Buvinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining ismi berilgan va badanida qizil xoli (nori) bor qiz"
+  },
+  {
+    "name": "Buvinora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvinor (Buvinor+a)"
+  },
+  {
+    "name": "Buvisora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvi va Sora"
+  },
+  {
+    "name": "Buvizor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvzor"
+  },
+  {
+    "name": "Buvniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining nomi berilgan va tuhfa, in’om qilingan qiz"
+  },
+  {
+    "name": "Buvnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisining ismi berilgan qizil xolli (norli) qiz"
+  },
+  {
+    "name": "Buvrasta",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Buvi va Rasida"
+  },
+  {
+    "name": "Buvsharaf",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisi ismini olgan yoqimtoy, totli qiz"
+  },
+  {
+    "name": "Buvshirin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisi ismi berilgan yoqimtoy, totli qiz"
+  },
+  {
+    "name": "Buvtilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisi ismini olgan qimmatli, aziz qiz"
+  },
+  {
+    "name": "Buvtoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisi ismi berilgan qiz toshdek mahkam bo‘lsin, ya’ni olmasin"
+  },
+  {
+    "name": "Achagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Achasining (onasi yoki buvisi) ismi bilan atalgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Achamaston",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Achasi nomi bilan atalgan ayol (qiz)"
+  },
+  {
+    "name": "Adashxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Adashtirilgan, xolli bola"
+  },
+  {
+    "name": "Afandi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yaratuvchi, bunyod etuvchi yoki o‘qituvchi, muallim"
+  },
+  {
+    "name": "Ajdar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qadimiy, afsonaviy mahluq. Ajdardek savlatli, viqorli, gavdali, katta, kuchli va baqquvat bo‘lsin ma’nosida"
+  },
+  {
+    "name": "Alifa",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chin ma’noda barchaga barobar bo‘lib, haqiqiy do‘st bo‘lsin, sadoqat timsoliga aylansin. Xonadonga tinchlik, totuvlik olib kelsin."
+  },
+  {
+    "name": "Amaliya",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ishonch, umid, ojiza, eng a’losi degan ma’noni anglatadi. Ojiza ayol bo‘lishiga qaramay, doimo umid bilan yashaydigan, kuchli inson bo‘lib voyaga yetsin degan niyatda qo‘yiladi."
+  },
+  {
+    "name": "Aqchagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek go‘zal qiz boy va badavlat bo‘lsin"
+  },
+  {
+    "name": "Arslon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sher, yo‘lbars, sherdek kuchli, qudratli, dovyurak, qo‘rqmas, mard, o‘ziga nisbatan ishonchi kuchli, irodali bo‘lsin."
+  },
+  {
+    "name": "Atoullo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohning in’omi, tuhfasi demakdir. Xonadonda haqiqiy inson bo‘lib voyaga yetib, oilaning \"boshi\", toji bo‘lsin."
+  },
+  {
+    "name": "Avazniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Marhum farzandlar o‘rniga o‘tinib so‘rab olingan boli yoki marhum farzandlar evaziga berilgan tuhfa, ehson"
+  },
+  {
+    "name": "Ayajon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasi yoki buvisining ismi berilgan qadrli, aziz qiz"
+  },
+  {
+    "name": "Ayim",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mening oymo‘mam deganidir. Tunni charog‘on aylagandek, hayoti porloq va kelajagi nurafshon bo‘lsin."
+  },
+  {
+    "name": "Ayzada",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek barchaning yo‘lini nurafshon qilib, barchaning hojatini chiqaruvchi samimiy inson bo‘lib voyaga yetsin degan niyatda qo‘llanadi."
+  },
+  {
+    "name": "Azimshox",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buyuk, yetuk ma’nosini anglatadi. Shoxlardek buyuk, viqorli, matonatli inson bo‘lsin."
+  },
+  {
+    "name": "Bahodir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Botir, pahlavon, azamat, dovyurak, mard, jasur, qo‘rqmas, kuch-qudratli."
+  },
+  {
+    "name": "Barchin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shoyi mato, ipak mato, parchin yoki balchin, barchin - go‘zal, zebo qiz"
+  },
+  {
+    "name": "Barzu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuqori, yuksak, baland; uzun bo‘yli; baland martabali"
+  },
+  {
+    "name": "Baynaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan qiz hur, ozod, baxtiyor bo‘lsin"
+  },
+  {
+    "name": "Bayongul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badavlat, baxtli qiz yoki nozik fahmli, farosatli qiz; ochiq yuzli qiz"
+  },
+  {
+    "name": "Sarixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar nasliga mansub sariq soch (rang)li bola"
+  },
+  {
+    "name": "Saygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "\"Say\"- baxtli degan ma’noni anglatadi.  Baxtu iqboli porloq, guldek yoqimli ifor taratib, maftunkor va dilbar bo‘lsin ma’nosida."
+  },
+  {
+    "name": "Selbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qattiq sel (toshqin) kelganda tug‘ilgan bola yoki seldek shiddatli, qudratli bola"
+  },
+  {
+    "name": "Selob",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qattiq sel kelganda, toshqin paytida tug‘ilgan bola"
+  },
+  {
+    "name": "Sevarbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yurtini, elini, yaqinlarini sevadi degan ma'nosini bidiradi"
+  },
+  {
+    "name": "Sevinch",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shodlik, quvonch, baxtiyorlik, mehribon, xursandchilik ramzi hisoblanadi. G‘am-g‘ussasiz, armonsiz, dardlardan forig‘ holda hayot kechirsin degan niyatda qo‘yiladi."
+  },
+  {
+    "name": "Sevnazar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Go’zal, yoqimli , latofatli qiz"
+  },
+  {
+    "name": "Shaxriniso",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shahar aholisi ma’nosini anglatadi."
+  },
+  {
+    "name": "Shig‘ay",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qashshoq, farzandga muhtoj bo‘lib yurib topilgan bola"
+  },
+  {
+    "name": "Sho‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Janob, boshliq, sardor yoki kelishish, bitim, ittifoq"
+  },
+  {
+    "name": "Shoshiya",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Topib olingan qiz yoki ozod, hur qiz yohud Shosh (shahar) farzandi, yohud yomon, iflos qiz. Keyingi ma’no bolaga ko‘z tegmasin degan maqsadni ifodalaydi"
+  },
+  {
+    "name": "Shoumrzoq",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sho(h) va Umrzoq"
+  },
+  {
+    "name": "Shoxzamon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shox hamda zamon uyg‘unlashgan holda paydo bo‘lgan ism.\nAmirlardek savlatli, aqilli, dono. Shuningdek, har bir o‘tgan vaqtdan unumli foydalanadigan inson bo‘lsin."
+  },
+  {
+    "name": "Sipohboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jangchi, askar"
+  },
+  {
+    "name": "So‘limbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pok, ozoda hamda baland martabali qiz"
+  },
+  {
+    "name": "So‘lmasjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "So‘lmaydigan, ya’ni o‘lmaydigan umri uzoq, jondan aziz bola"
+  },
+  {
+    "name": "Sochbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mayna, sayroqi qush yoki soch, qorayaloq; qizil rangli chug‘urchiq. Eht.: Sojidabibi"
+  },
+  {
+    "name": "Sorabegim",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzoda (bekzoda) qizlarning eng sarasi, a’losi"
+  },
+  {
+    "name": "Sorabuvi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sora va Buvi"
+  },
+  {
+    "name": "Soraxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning eng a’losi, sarasi bo‘lgan xoldor qiz"
+  },
+  {
+    "name": "Qizlarxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning rahbari, sardori, yetkachisi, peshqadami yoki qizlarning eng mo‘’tabari, e’zozlisi, izzatlisi."
+  },
+  {
+    "name": "Qo‘chqor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Peshonasi do‘ng yoki moyaga kattaroq bo‘lib tug‘ilgan bola ulg‘ayib sog‘, qo‘chqordek baquvvat, kuchli yigit bo‘lsin."
+  },
+  {
+    "name": "Qo‘non",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tinch, xotirjam, rohatda yashovchi yoki qar. Qunon"
+  },
+  {
+    "name": "Qo‘shan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qo‘shnazar, Qo‘shniyoz (Xushnazar, Xushniyoz) kabi ismlarning eq.shakli"
+  },
+  {
+    "name": "Qo‘shjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "“Qo‘sh“ so‘zi bilan boshlangan ba’zi qo‘shma ismlarning eq.shakli yoki oldingi bolalar safiga qo‘shilsin"
+  },
+  {
+    "name": "Qo‘shmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xushmirza yoki bu bola sog‘ bo‘lib oldingi bolalar, o‘z tengdoshlariga qo‘shilsin"
+  },
+  {
+    "name": "Qo‘shpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mustahkam bo‘lsin va sog‘ ulg‘ayib o‘zgalar safiga qo‘shilsin yoki qar. Xushpo‘lat"
+  },
+  {
+    "name": "Qo‘shtan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida biror bir ortiqcha, g‘ayritabiiy belgi bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Qo‘zigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qo‘zigul (erta bahorda ochiladigan sariq gulli o‘simlik) ochilgan paytida tug‘ilgan qiz yoki qo‘ziguldek nozik, chiroyli qiz"
+  },
+  {
+    "name": "Qo‘zixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan erka, suyukli qiz"
+  },
+  {
+    "name": "Qo‘ziyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, erka o‘g‘ilga Alloh o‘ziyor bo‘lsin yoki boylik, davlat sohibi"
+  },
+  {
+    "name": "Qoldigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sog‘ qolgan guldek go‘zal qiz yoki xol bilan tug‘ilgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Qoljon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xoljon"
+  },
+  {
+    "name": "Qoplonmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qoplon va Mirza"
+  },
+  {
+    "name": "Qorachori",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘rtinchi o‘g‘il (farzand) kuchli, dovyurak yigit bo‘lsin"
+  },
+  {
+    "name": "Qoramirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qora va Mirza"
+  },
+  {
+    "name": "Qoramon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qoramon urug‘iga mansub bola yoki qar. Qahramon"
+  },
+  {
+    "name": "Qoraniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan iltijolar bilan tilab olingan bola ulg‘ayib kuchli, qudratli yigit bo‘lsin"
+  },
+  {
+    "name": "Qorapo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kuchli, qudratli va po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Qorasunqur",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Burgut, shunqordek kuchli, jasur yigit bo‘lsin"
+  },
+  {
+    "name": "Oymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va o‘qimishli, sipoyi yigit bo‘lsin"
+  },
+  {
+    "name": "Oynagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oyna va Gul"
+  },
+  {
+    "name": "Oynishon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida biror nishon (nelgi) bilan tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oynor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ko‘rkam va badanida qizil xol (belgi) bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Oynovvot",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va novvotdek shirin qiz"
+  },
+  {
+    "name": "Oynoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va nozli, muloyim qiz"
+  },
+  {
+    "name": "Oyparcha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oyning bo‘lagi (parcha)sidek gozal qiz yoki oyparcha (mato turi)dek chiroyli, muloyim qiz"
+  },
+  {
+    "name": "Oyparda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oypari",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oy va paridek ko‘rkam, sohibkamol, zebo qiz"
+  },
+  {
+    "name": "Oypaxta",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Paxta terimi payti tug‘ilgan oydek go‘zal qiz"
+  },
+  {
+    "name": "Oypo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ko‘rkam va po‘latdek mustahkam qiz"
+  },
+  {
+    "name": "Oypora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aynan: Ayollar ko‘ylagining yoqa qismi yoki yirtiq uvada, ya’ni arzimas, ko‘zga ilinmas qiz. Himoya qiluvchi ism"
+  },
+  {
+    "name": "Oyposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va mo‘tabar, suyukli qiz"
+  },
+  {
+    "name": "Oyqor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oyqor tog‘idek yuksak va ulug‘ martabali"
+  },
+  {
+    "name": "Oyravshan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek nurli, chiroyli bola"
+  },
+  {
+    "name": "Oyro‘zi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Rohat-farog‘atda, osoyishtalikda yashovchi oydek ko‘rkam qiz"
+  },
+  {
+    "name": "Oyrusta",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qishloqning (ovulning) oydek ko‘rkam qizi. Sol: Rusta"
+  },
+  {
+    "name": "Oysada",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qayrag‘och, sadadey gurkirab o‘ssin, yashasin, mustahkam bo‘lsin yoki sada (sadarayhon)dek yoqimtoy, chiroyli bo‘lsin"
+  },
+  {
+    "name": "Oysari",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oy va Sora. Sol: Oysara"
+  },
+  {
+    "name": "Oysarvi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sarvidek chiroyli, xushqomat qiz"
+  },
+  {
+    "name": "Boltayoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Boltaniyoz"
+  },
+  {
+    "name": "Bolxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan boldek shirin bola"
+  },
+  {
+    "name": "Bolyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gulning bolidek shirin, yoqimtoy qiz yoki boldek shirin va guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Boshpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boshi po‘latdek mustahkam bo‘lib, uzoq yashasin"
+  },
+  {
+    "name": "Botir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mard, polvon, pahlavon, dovyurak, jasur, qo‘rqmas, azamat, botir."
+  },
+  {
+    "name": "Boybobo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boy buvasining ismi berilgan bola"
+  },
+  {
+    "name": "Boygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek chiroyli qiz ulg‘ayib badavlat ayol bo‘lsin"
+  },
+  {
+    "name": "Boyjo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Boy va Jo‘ra"
+  },
+  {
+    "name": "Boyjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, erkatoy bola badavlat, rizqu ro‘zli bo‘lsin"
+  },
+  {
+    "name": "Boykolon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulkan, ulug‘, boy; badavlatlilarning ulug‘i"
+  },
+  {
+    "name": "Boymir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Boymirza"
+  },
+  {
+    "name": "Boynafas",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Boy va Nafas"
+  },
+  {
+    "name": "Boyniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib so‘rab olingan badavlat bola yoki Alloh bergan tengsiz sovg‘a"
+  },
+  {
+    "name": "Boyparda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan bola ulg‘ayib badavlat bo‘lsin"
+  },
+  {
+    "name": "Boypo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badavlat va mustahkam, mahkam bo‘lsin, ya’ni umri bilan berilgan bo‘lsin"
+  },
+  {
+    "name": "Boypolvon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badavlat hamda pahlavon yigit bo‘lsin"
+  },
+  {
+    "name": "Boytilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Davlatli hamda qadrli, qimmatli bola"
+  },
+  {
+    "name": "Boyxo‘roz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xolli (tojli) bola boybadavlat bo‘lsin"
+  },
+  {
+    "name": "Boyyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Boylik, davlat yor bo‘lsin"
+  },
+  {
+    "name": "Buka",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kuchli, qudratli, jasur, qahramon, bahodir"
+  },
+  {
+    "name": "Oygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv, go‘zallikda yorqin, guldek zebo, nafis, chiroyli, maftunkor, istarali qiz."
+  },
+  {
+    "name": "Oygulbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv, guldek chiroyli va baland martabali qiz"
+  },
+  {
+    "name": "Oyguli",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oygul"
+  },
+  {
+    "name": "Oyijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Onasining yoki buvisining ismini olgan aziz, suyukli qiz"
+  },
+  {
+    "name": "Oyimbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oyim va Bibi"
+  },
+  {
+    "name": "Oyimbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oyim va Bonu"
+  },
+  {
+    "name": "Oyimdono",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar va jondek aziz qiz"
+  },
+  {
+    "name": "Oyimgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar oilaning guldek farzandi"
+  },
+  {
+    "name": "Oyimjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar va jondek aziz qiz"
+  },
+  {
+    "name": "Oyimposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar, badavlat oila farzandi; qadrli, obro‘li ayol"
+  },
+  {
+    "name": "Oyimtilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar oilaning qimmatli, aziz farzandi"
+  },
+  {
+    "name": "Oyimtoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar oilaning xolli, xoldor farzandi"
+  },
+  {
+    "name": "Oyimxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Mo‘tabar oiladning xol bilan tug‘ilgan qizi"
+  },
+  {
+    "name": "Oyjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aynan: Jahonning oyi; olamdagi eng ko‘rkam chiroyli qiz"
+  },
+  {
+    "name": "Oyjo‘ra",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oydo‘st"
+  },
+  {
+    "name": "Oyjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va jondek aziz, qadrli qiz"
+  },
+  {
+    "name": "Oylarbas",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qiz tug‘ilishi yetar, navbatdagisi o‘g‘il bo‘lsin"
+  },
+  {
+    "name": "Oylargul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oylar (Oylar+gul)"
+  },
+  {
+    "name": "Oylola",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ravshan, nurli va loladek go‘zal qiz"
+  },
+  {
+    "name": "Oymardon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv va mardlarning mardi, dovyurak"
+  },
+  {
+    "name": "Xonbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak hurmat va e’zozga munosib qiz"
+  },
+  {
+    "name": "Xondamir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Asli Xovandamir, ya’ni Alloh (Xudovand, Xovand) hukmrondir, yo‘lboshchidir yoki Alloh olqishlagan hukmron, boshliq, yetkachi (amir)."
+  },
+  {
+    "name": "Xonigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oliy nasab, aslzoda, guldek go‘zal qiz"
+  },
+  {
+    "name": "Xonimgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali va guldek go‘zal qiz"
+  },
+  {
+    "name": "Xonimjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali hamda suyukli, jondek aziz qiz"
+  },
+  {
+    "name": "Xonimnoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali nozli, nozik qiz"
+  },
+  {
+    "name": "Xonimxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xonim - Xonmuhammad, Xonmirza ismlarining eq.shakli"
+  },
+  {
+    "name": "Xonimzar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali va oltindek qimmatli qiz"
+  },
+  {
+    "name": "Xonjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Olam podshohi, dunyo hukmroni"
+  },
+  {
+    "name": "Xonjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali hamda suyukli, jondek aziz bola"
+  },
+  {
+    "name": "Xonmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xon va Mirza"
+  },
+  {
+    "name": "Xonniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "o‘tinib, so‘rab olingan bola ulg‘ayib yuksak martabalar egasi bo‘lsin"
+  },
+  {
+    "name": "Xonpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mustahkam bola ulg‘ayib yuksak martabalar egasi bo‘lsin"
+  },
+  {
+    "name": "Xonposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabali va hurmatli, e’zozli qiz"
+  },
+  {
+    "name": "Xonqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak martabalar egasi bo‘lgan guldek go‘zal qiz"
+  },
+  {
+    "name": "Xonsora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xon va Sora"
+  },
+  {
+    "name": "Xontilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oltindek qimmatli qiz ulg‘ayib ulug‘ martaba, e’zozlar sohibi bo‘lsin"
+  },
+  {
+    "name": "Xonxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bola ulg‘ayib yuksak martaba va e’zozlarga erishsin"
+  },
+  {
+    "name": "Xonzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aynan: Xonning, hukmdorning qizi; oliy nasab, aslzodalar, zodagonlar, beklar, amirlar avlodiga mansub kuchli, irodali, viqorli qiz."
+  },
+  {
+    "name": "Xulbuniso",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Xolbuvi (Xolbu+niso)"
+  },
+  {
+    "name": "Sotilmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sotil va Mirza"
+  },
+  {
+    "name": "Sotqinbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sotgin (Sotqinbibi)"
+  },
+  {
+    "name": "Sottimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sotti va Mirza"
+  },
+  {
+    "name": "Subhidam",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Erta tong ma’nosini anglatadi. Yangi kunni yaxshi niyatlar ila qarshi olgandek, dunyoga kelgan farzand qut barakali, yaxshiliklarni olib kelsin degani hamdir."
+  },
+  {
+    "name": "Sulaymonqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sulaymon payg‘ambarning xizmatkori, quli yoki Sulaymon payg‘ambar nomi berilgan mo‘min-qobil bola"
+  },
+  {
+    "name": "Suluvbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oliynasab avlodga mansub go‘zal qiz"
+  },
+  {
+    "name": "Suluvgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli, ko‘rkam gul, ya’ni gul kabi zebo qiz"
+  },
+  {
+    "name": "Suluvjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jondan aziz, go‘zal qiz"
+  },
+  {
+    "name": "Suluvnoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli ishvalar qiluvchi, nozli, nazokatli qiz"
+  },
+  {
+    "name": "Suyarsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Suyar (Suyar+sho)"
+  },
+  {
+    "name": "Suyarxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan suyukli, aziz bola"
+  },
+  {
+    "name": "Suydibonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Suyukli, hurmatga sazovor qiz"
+  },
+  {
+    "name": "Suyunmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Suyun va Mirza"
+  },
+  {
+    "name": "Suyunxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub quvnoq, baxtiyor bola"
+  },
+  {
+    "name": "Tangri",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh, Xudo; Ko‘k, osmon. Asli: Tangriberdi, Tangriqul. Shakllari: Tangriboy, Tangribek"
+  },
+  {
+    "name": "Tangrixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh ato qilgan va xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "Tavurmiza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tavur va Mirza"
+  },
+  {
+    "name": "Tavurxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub durust, ma’qul bola"
+  },
+  {
+    "name": "Tekpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tinch, osoyishta, osuda va po‘latdek mustahkam bo‘lsin"
+  },
+  {
+    "name": "Temirgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Temirdek mustahkam va guldek chiroyli qiz"
+  },
+  {
+    "name": "Qutlijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli-saodatli hamda suyukli bola"
+  },
+  {
+    "name": "Qutlimardon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Erkaklarning, mardlarning eng baxtli, saodatlisi"
+  },
+  {
+    "name": "Qutlimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qutli va Mirza"
+  },
+  {
+    "name": "Qutliniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Alloh bergan qutlug‘, baxtli bola yoki Allohdan tilanib, so‘rab olingan baxtli bola"
+  },
+  {
+    "name": "Qutlipo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli va po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Qutliposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli va ulug‘ martabali bola yoki baxtli, saodatmand hukmron, shoh"
+  },
+  {
+    "name": "Qutliqjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qutliq (Qutliq+jon)"
+  },
+  {
+    "name": "Qutlisho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Qutli va Sho(h)"
+  },
+  {
+    "name": "Qutlixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan baxtli, omadli bola"
+  },
+  {
+    "name": "Qutliyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxt-saodat, istiqbol yor bo‘ladigan bola yoki baxtli do‘st"
+  },
+  {
+    "name": "Ramazon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ramazon oyida tug‘ilgan farzandga shunday ism qo‘yiladi. Muborak oyda dunyoga kelgan farzand, hayoti ham fayzu-barokatli o‘tsin ma’nosida."
+  },
+  {
+    "name": "Saidbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Beklarning saidi, ya'ni baxtli, saodatli, omadli yoki tolei baland, o‘suvchi, yuksaluvchi insonlar orasida bek"
+  },
+  {
+    "name": "Samira",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ikkinchi qiz. Qat’iyatli hamda sirli, qalbidagi chekinmalarni yuzaga chiqarmaydigan mag‘rur."
+  },
+  {
+    "name": "Sandal",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xushbo‘y, chiroyli daraxt (sandal)del zebo qiz yoki ko‘chma ma’noda; olijanob, vijdonli; pok, mard"
+  },
+  {
+    "name": "Saribibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli va baland martabali qiz"
+  },
+  {
+    "name": "Sarigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Sarijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli va jondan aziz, suyukli bola"
+  },
+  {
+    "name": "Sarimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Sari va Mirza yoki mirzolar avlodiga mansub bo‘lgan taniqli bola"
+  },
+  {
+    "name": "Sariniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tilab, o‘tinib, iltijo qilib olingan sariq sochli (rangli) bola"
+  },
+  {
+    "name": "Saripo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sariq sochli (rangli) po‘latdek mustahkam, ya’ni umri uzoq bola"
+  },
+  {
+    "name": "Temirmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Temirdek mahkam, mustahkam va o‘qimishli, kelishgan yigit bo‘lsin"
+  },
+  {
+    "name": "Temirniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib, so‘rab olingan o‘g‘il temirdek mahkam bo‘lsin"
+  },
+  {
+    "name": "Temirpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Temirdek va po‘latdek mahkam, mustahkam, ya’ni uzoq yashaydigan bola"
+  },
+  {
+    "name": "Temirsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Temir va Sho(h)"
+  },
+  {
+    "name": "Temirxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan temirdek mustahkam, ya’ni balo-qazolarga chidamli, yashovchan bola"
+  },
+  {
+    "name": "Tengri",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tangri, Tangriqul"
+  },
+  {
+    "name": "Teshagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Teshadek mustahkam, ya’ni yashaydigan, o‘lmaydigan qiz"
+  },
+  {
+    "name": "Teshaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan teshadek mustahkam bola"
+  },
+  {
+    "name": "Tilabxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan Allohdan tilab, iltijo qilib olingan bola"
+  },
+  {
+    "name": "Tilakmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umidimiz, orzuimiz bo‘lgan bola ulg‘ayib o‘qimishli, mirza yigit bo‘lsin"
+  },
+  {
+    "name": "Tilovniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Orzu, armon bilan iltijolar qilib urib erishilgan bola"
+  },
+  {
+    "name": "Tilovxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan tilab, ozular qilib erishilgan bola"
+  },
+  {
+    "name": "Tiniqgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pokiza, musaffo va guldek go‘zal qiz yoki toza, musaffo gul, ya’ni dilbar, zebo qiz"
+  },
+  {
+    "name": "Tirikmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sog‘ bo‘lib, o‘qimishli, mirza yigit bo‘lsin"
+  },
+  {
+    "name": "Tirkashxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bola oldingi farzandlarga ulanib, qo‘shilib ketsin"
+  },
+  {
+    "name": "To‘g‘onmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘g‘on va Mirza"
+  },
+  {
+    "name": "To‘labbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umrini to‘la qilib berilgan, barhayot qiz"
+  },
+  {
+    "name": "To‘lamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umri to‘la qilib berilgan o‘g‘il ulg‘ayib mirza yigit bo‘lsin"
+  },
+  {
+    "name": "To‘lanmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘laganmirza"
+  },
+  {
+    "name": "To‘laxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umri to‘la, to‘kis qilib berilgan xo‘jalar avlodiga mansub bola"
+  },
+  {
+    "name": "Ismoilqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ismoilning quli, Ismoilga bo‘ysunuvchi"
+  },
+  {
+    "name": "Isoboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Iso (Iso+boy)"
+  },
+  {
+    "name": "Isoqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Iso (as)ning quli"
+  },
+  {
+    "name": "Isotoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Iso payg‘ambar ismi berilgan aziz, suyukli bola yoki qar. Iso (Iso+toy)"
+  },
+  {
+    "name": "Isoxon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Iso (Iso+xon)"
+  },
+  {
+    "name": "Istakgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xohlangan, orzu qilingan va guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Istiqbol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kelajagi buyuk, to’lei baland, porloq kelajak sohibi, o‘suvchi-unuvchi, ulkan zafatlarga erishuvchi, hayoti yorqin bo‘luvchi"
+  },
+  {
+    "name": "Istiqlol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ozod, erkin, hur, erki o‘zida, qaram bo‘lmagan, o‘ziga o‘zi xo‘jayin, birovga to’beligi yo‘q, mustaqil"
+  },
+  {
+    "name": "Ixshid",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hokim, amir; sulton, shoh; hukmron"
+  },
+  {
+    "name": "Iymanjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Iboli, uyatchan; odobli bola yoki kutib, intizor bo‘lib erishilgan bola"
+  },
+  {
+    "name": "Jansu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jan hamda su, obi hayot, ya’ni tirik suv ma’nosini anglatadi. Jildirab, mavjlanib oqayotgan suvdek pokiza. beg‘ubor, nafis, samimiy inson bo‘lsin ma’nosida."
+  },
+  {
+    "name": "Jaynoqmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti quvnoq va bilimli, kelishgan yigit bo‘lsin"
+  },
+  {
+    "name": "Jig‘agul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Jig‘adek mo‘tabat va guldek zebo qiz"
+  },
+  {
+    "name": "Jiyanniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Jiyan va Niyoz"
+  },
+  {
+    "name": "Jo‘lmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yo‘li ochiq, umri uzoq va o‘qimishli mirzo yigit bo‘lsin"
+  },
+  {
+    "name": "Jomir",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eht.: Jonmir va Jomurod"
+  },
+  {
+    "name": "Kamola",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Kamolga erishgan yetuk,zebo, ko'rkam, mukammal inson. Boshqalarga namuna, ibrat, o‘rnak bo‘la oladigan qiz."
+  },
+  {
+    "name": "Kattabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘ martabali qiz"
+  },
+  {
+    "name": "Kattagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ulug‘, ulkan va guldek go‘zal qiz. Shakli: Kattaoy, Kattaxon"
+  },
+  {
+    "name": "Kattaxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan ulug‘, ulkan bola"
+  },
+  {
+    "name": "Xushnur",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xush kayfiyat inson, chehrasi nurli, yorqin, istarasi issiq, dilkash."
+  },
+  {
+    "name": "Yahyoqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yahyo payg‘ambarga tobe, uning sodiq xizmatkori"
+  },
+  {
+    "name": "Yangigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toza, pokiza, yashnagan gul"
+  },
+  {
+    "name": "Yarashgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yarash (Yarash+gul)"
+  },
+  {
+    "name": "Yashin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chaqmoqli tunda tug‘ilgan bola, yashindek yorqin, o‘tli, tezkor, chaqqon bo‘lsin."
+  },
+  {
+    "name": "Yashnar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gullab-yashnaydigan, umri barq uruvchi, barhayot bo‘luvchi, hayot ummonida to‘lib toshuvchi, barchaga yaxshilik istovchi."
+  },
+  {
+    "name": "Yashnargul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti gul kabi yashnoq, go‘zal va farovon bo‘lsin"
+  },
+  {
+    "name": "Yaxshigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning yaxshisi, a’losi"
+  },
+  {
+    "name": "Yaxshimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yaxshi va Mirza"
+  },
+  {
+    "name": "Yaxshiniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Allohdan o‘tinib so‘rab olingan maqbul, munosib bola yoki Allohning tuhfasi, sovg‘asi"
+  },
+  {
+    "name": "Yaxshinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Badanida xosiyatli, munosib xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Yo‘ldoshmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yo‘ldosh va Mirza"
+  },
+  {
+    "name": "Yo‘ldoshxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ota-onasining hamroh, suyanchi bo‘lgan xo‘ja avlodiga mansub bola"
+  },
+  {
+    "name": "Yo‘lmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yo‘lli va Mirza"
+  },
+  {
+    "name": "Yodgoroy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tug‘ilganida onasi vafot etib yoki tug‘ilganida (tug‘ilguniga qadar) otasi vafot etib undan yodgor bo‘lib qolgan oydek suluv qiz"
+  },
+  {
+    "name": "Yolqinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan nurli, yolqinli bola"
+  },
+  {
+    "name": "Yondoshmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Yondosh va Mirza"
+  },
+  {
+    "name": "Yoqubberdi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoqub (as)ning muruvvati, iltifoti bo‘lgan bola"
+  },
+  {
+    "name": "Yoqubkeldi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yoqub (as)ning iltifot qilgan bola tug‘ildi (keldi)"
+  },
+  {
+    "name": "Yorqinoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti nurli va oydek suluv qiz yoki mehribon dilkash qiz."
+  },
+  {
+    "name": "Zenfira",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Musulmon olamining turk millatida keng qo‘llaniladigan ismlardan biridir. Xusni jamoli ila barchani lol qoldiruvchi."
+  },
+  {
+    "name": "Zufnun",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yurtning dong‘isini butun dunyoga tanitadigan ilmli. olim bo‘lsin. Kelajagi yulduzdek porlab, ilm cho‘qqisining eng yuqori pog‘onasini zabt etib, barchaning yuzini yorug‘ qilsin."
+  },
+  {
+    "name": "Zuhrat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Arabcha Zuhra ismining turkcha ma’nodosh shakli. Yorqin degan ma’noni anglatib, dunyoni yoritguvchi shamchiroqday porloq bo‘lsin ma’nosida qo‘llanadi."
+  },
+  {
+    "name": "Zulayxo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qadriga ega ma’nosini anglatadi. Doimo qadr-qimmati yuqori bo‘lsin degani hamdir. Yusuf payg‘ambarimizning ayollarining ismi bo‘lgan."
+  },
+  {
+    "name": "O‘gamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Og‘a va Mirza"
+  },
+  {
+    "name": "O‘gshuk",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tuyaning bir xili, 2 yoshli tuya"
+  },
+  {
+    "name": "O‘gtoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hokim, hukmdor"
+  },
+  {
+    "name": "O‘lmas",
+    "nat": "O‘zbekcha",
+    "nameDesc": "O‘lmaydi, umri uzoq bo‘ladi deb umid qilingan bola, umri ziyoda barakali bo‘lsin"
+  },
+  {
+    "name": "O‘lmasoy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yashaydigan, uzoq umrli, hayoti barokatli go‘zal, oydek suluv, zebo, chehrasi porloq qiz."
+  },
+  {
+    "name": "O‘narboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Unarboy yoki Hunarboy"
+  },
+  {
+    "name": "O‘ngmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "O‘nglangin, ya’ni umring uzoq bo‘lsin yoki to‘g‘ri, rostgo‘y bola"
+  },
+  {
+    "name": "O‘rda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Uya, panojoy yoki lashkargoh yoki ko‘pchilik, to‘p, to‘da, ya’ni bolalar ko‘payib, bir to‘da bo‘lsin"
+  },
+  {
+    "name": "O‘rinboy",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Umri uzoq, baxtli-taxtli, hayoti barokatli bo‘lsin. Hayot yo‘li bardavom davom etsin."
+  },
+  {
+    "name": "O‘ringul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avval vafot etgan bola(lar) evaziga kelgan guldek go‘zal qiz"
+  },
+  {
+    "name": "O‘rinniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan bolalar o‘rniga o‘tinib so‘rab olingan bola yoki avvalgi vafot etgan farzandlar o‘rniha berilgan tuhfa, sovg‘a"
+  },
+  {
+    "name": "O‘rinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan farzand o‘rnini bosuvchi xo‘jalar nasliga mansub bola"
+  },
+  {
+    "name": "O‘rinxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Avvalgi turmagan farzandlar o‘rniga berilgan xolli qiz"
+  },
+  {
+    "name": "O‘rmonsho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. o‘rmon va Sho(h) yoki o‘rmonlar shohi, o‘rmon egasi"
+  },
+  {
+    "name": "O‘rol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tug‘ilganida o‘ralib tushgan , jingalak sochli  yoki to‘ng‘ich, birinchi farzand yohud baxtiyor, shodon, saodatli bo‘lsin."
+  },
+  {
+    "name": "O‘roz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, saodatli, to’lei baland, iqboli porloq, omadli, peshonsi yorug‘ yoki ro‘za (o‘roza) ramazon oyida tug‘ilgan bola."
+  },
+  {
+    "name": "O‘rozbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli va baland martabali qiz"
+  },
+  {
+    "name": "O‘rozbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oliy nasabga mansub baxtli qiz yoki ro‘za (o‘roza) oyida tug‘ilgan oliy nasab qiz"
+  },
+  {
+    "name": "O‘rozgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Go‘zal va saodatli qiz"
+  },
+  {
+    "name": "O‘rozjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Dunyodagi eng baxtli qiz"
+  },
+  {
+    "name": "Tursunpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mahkam bola turib qolsin, yashab ketsin"
+  },
+  {
+    "name": "Tursuntilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tilladek qadrli, qimmatli qiz sog‘ tursin, yashasin"
+  },
+  {
+    "name": "Tursuntoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol (toj) bilan tug‘ilgan qiz sog‘ bo‘lib yashab ketsin"
+  },
+  {
+    "name": "Tursuntoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tursuntoj"
+  },
+  {
+    "name": "Tursunxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan bola sog‘ tursin, yashasin"
+  },
+  {
+    "name": "Tursunxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan qiz sog‘ tursin, umri uzoq bo‘lsin"
+  },
+  {
+    "name": "Tuvoqgul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan guldek ko‘rkam qiz"
+  },
+  {
+    "name": "Tuvoqniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan va Allohdan o‘tinib, so‘rab olgan bola"
+  },
+  {
+    "name": "Tuvoqtoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali va xol (toj) bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Tuyg‘unbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tuyg‘un"
+  },
+  {
+    "name": "Tuyg‘unjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tuyg‘un (Tuyg‘un+jon)"
+  },
+  {
+    "name": "Tuyg‘unxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bo‘lgan sezgir, ziyrak bola"
+  },
+  {
+    "name": "Tuymaxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tugmadek xol bilan tug‘ilgan qiz. Qar. Tugmaxol"
+  },
+  {
+    "name": "Tuzalmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tuzal va Mirza"
+  },
+  {
+    "name": "Tuzalxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub bola tuzalib, sog‘ayib ketsin"
+  },
+  {
+    "name": "Ucham",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sevinch, shodlik; baxtiyorlik"
+  },
+  {
+    "name": "Uchqun",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayoti nurli, yorug‘, nurli to’lei porloq, iqboli baland, baxtiyor, saodatli va omadli, umri yorqin bola."
+  },
+  {
+    "name": "Ug‘ur",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ishi tez yurishuvchi, baxtli, omadli"
+  },
+  {
+    "name": "Ugur",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, saodatmand, iqboli baland"
+  },
+  {
+    "name": "Ugurli",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baxtli, saodatmand, baxtiyor"
+  },
+  {
+    "name": "To‘lqin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Hayotda yayrab, yashnab, dengiz to‘lqinidek jo‘shqin bo‘lib, to‘lib toshib yursin degan ma’noda."
+  },
+  {
+    "name": "To‘lqinxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘lqin va Xo‘ja"
+  },
+  {
+    "name": "To‘qjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Rizq ro‘zli, nasibasi butun va suyukli, jondek aziz bola"
+  },
+  {
+    "name": "To‘qlimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘qli va Mirza"
+  },
+  {
+    "name": "To‘qlimurod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘qli va Murod"
+  },
+  {
+    "name": "To‘rabek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oliy martabali, to‘ralar, beklar naslidan; uzoq umr ko‘ruvchi, halol, mard, jasur, bir so‘zli, dovyurak bola."
+  },
+  {
+    "name": "To‘rabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Baland martabali, aslzoda qiz"
+  },
+  {
+    "name": "To‘ragul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oliy martabali, aslzoda hamda guldek ko‘rkam qiz"
+  },
+  {
+    "name": "To‘ramirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Aslzoda, mirzalarning sarkori"
+  },
+  {
+    "name": "To‘raniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘ra va Niyoz yoki Allohdan so‘rab, yolvorib olingan bola, Allohning tuhfasi"
+  },
+  {
+    "name": "To‘raposhsha",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Martabali, e’zozli qiz; qar. To‘ra va Poshsha"
+  },
+  {
+    "name": "To‘raxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodidan bo‘lgan baland martabali bola"
+  },
+  {
+    "name": "To‘raxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan o‘g‘il baland martabalar sohibi bo‘lsin"
+  },
+  {
+    "name": "To‘tibibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirinsuxan, biyron tilli hamda baland martabali, e’zozli qiz yoki onasi yohud opasining ismi berilgan qiz"
+  },
+  {
+    "name": "To‘tigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Shirinsuxan, biyron tilli va guldek chiroyli qiz yoki onasi yohud onasining ismini olgan qiz"
+  },
+  {
+    "name": "To‘tixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan qiz, biyron, shirintil bo‘lsin yoki onasining ismi berilgan xolli qiz"
+  },
+  {
+    "name": "To‘xtabibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. To‘xta va Bibi"
+  },
+  {
+    "name": "To‘xtagul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek go‘zal qiz to‘xtasin, yashasin"
+  },
+  {
+    "name": "To‘xtamirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "To‘xtasin, yashasin va ulg‘ayib kelishgan, o‘qimishli yigit bo‘lsin"
+  },
+  {
+    "name": "To‘xtaniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yolvorib, iltijolar qilib olingan bola to‘xtasin, yashasin"
+  },
+  {
+    "name": "Menglijon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan aziz, suyukli qiz"
+  },
+  {
+    "name": "Menglimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli bola ulg‘ayib murod-maqsadiga yetsin"
+  },
+  {
+    "name": "Mengliniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "So‘rab, tilab olingan xoldor bola"
+  },
+  {
+    "name": "Menglinor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xol bilan tug‘ilgan qiz"
+  },
+  {
+    "name": "Menglinoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Menglinozik yoki Mengliniyoz (qar.) ismlarining eq.shakli"
+  },
+  {
+    "name": "Menglinozik",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan muloyim, noziktab qiz"
+  },
+  {
+    "name": "Menglipo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan va po‘latdek mustahkam bola"
+  },
+  {
+    "name": "Mengliro‘y",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuzida xoli bor suluv qiz"
+  },
+  {
+    "name": "Menglisho",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli o‘g‘il ulug‘ martabalar egasi bo‘lsin"
+  },
+  {
+    "name": "Menglisora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlarning sarasi bo‘lgan xolli qiz yoki qar. Mengli va Sora"
+  },
+  {
+    "name": "Menglixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan xolli bola"
+  },
+  {
+    "name": "Menglixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Mengliyor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli do‘st, hamdam yoki xol yo‘ldosh bo‘lib tug‘ilgan bola"
+  },
+  {
+    "name": "Menglizoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xollilar avlodiga mansub bola"
+  },
+  {
+    "name": "Mengniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "So‘rab, o‘tinib olingan xolli bola"
+  },
+  {
+    "name": "Mengnor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Mengpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Po‘latdek mustahkam xolli bola"
+  },
+  {
+    "name": "Mengsora",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli xolli qiz yoki qar. Meng va Sora"
+  },
+  {
+    "name": "Mengzifo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Chiroyli xolli qiz"
+  },
+  {
+    "name": "Mengzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xollilar avlodiga mansub qiz"
+  },
+  {
+    "name": "Oyshahar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Asli: Oyshakar bo‘lsa kerak yoki shaharga kelganda tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oyshakar",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv, shakardek shirin, yoqimli, suyukli qiz"
+  },
+  {
+    "name": "Oyshan",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek go‘zal va bezangan, orolangan qiz"
+  },
+  {
+    "name": "Oyshirin",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek suluv hamda yoqimtoy, suyukli qiz"
+  },
+  {
+    "name": "Oyshoh",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oy va Shoh"
+  },
+  {
+    "name": "Oysiymo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oymonand, oysifat, oyyuzli qiz"
+  },
+  {
+    "name": "Oysohat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oysoat"
+  },
+  {
+    "name": "Oytilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek ko‘rkam va tilladek qadrli, aziz bola"
+  },
+  {
+    "name": "Oytoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oytoji"
+  },
+  {
+    "name": "Oytoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toj (xol) bilan tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oyxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar naslidan bo‘lgan oydek ko‘rkam qiz"
+  },
+  {
+    "name": "Oyxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan oydek suluv qiz"
+  },
+  {
+    "name": "Oyzebo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oydek go‘zal qiz"
+  },
+  {
+    "name": "Oyzifa",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eht.: Oyzebo"
+  },
+  {
+    "name": "Oyzira",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Eht.: Oyzirak"
+  },
+  {
+    "name": "Oyzirak",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Sezgir, ziyrak va oydek go‘zal qiz"
+  },
+  {
+    "name": "Oyziyod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizlar tug‘ilishi yetarli bo‘ldi yoki oydek go‘zak qizning umri uzoq, ziyoda bo‘lsin"
+  },
+  {
+    "name": "Oyzod",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Oyzoda"
+  },
+  {
+    "name": "Oyzoda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oy farzandi, ya’ni oydek suluv, zebo qiz"
+  },
+  {
+    "name": "Qabulbek",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Katta odam, obro‘li, e’tiborli; bilimi ko‘p, ilmli, ziyoli, donishmand"
+  },
+  {
+    "name": "Toshoxun",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tosh va Oxun"
+  },
+  {
+    "name": "Toshparda",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Pardali bo‘lib tug‘ilgan, toshdek mustahkam bola"
+  },
+  {
+    "name": "Toshpo‘lat",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tosh va po‘latdek mustahkam, yashaydigan bola, uzoq umr ko'rsin"
+  },
+  {
+    "name": "Toshqul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mahkam, go‘zal qiz"
+  },
+  {
+    "name": "Toshtilla",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mustahkam va tilladek qimmatli, yaxshi bola"
+  },
+  {
+    "name": "Toshxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub toshdek mahkam, umri uzoq bola"
+  },
+  {
+    "name": "Toshxol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Toshdek mustahkam va xol bilan tug‘ilgan bola"
+  },
+  {
+    "name": "Totlixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xo‘jalar avlodiga mansub shirin, yoqimtoy bola"
+  },
+  {
+    "name": "Toygul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Buvisi (onasining onasi) ismini olgan, guldek go‘zal qiz"
+  },
+  {
+    "name": "Toyjon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Toy+jon"
+  },
+  {
+    "name": "Toymirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Toy va Mirza"
+  },
+  {
+    "name": "Toyxo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Toy va Xo‘ja"
+  },
+  {
+    "name": "Tugalmirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Tugal  va Mirza"
+  },
+  {
+    "name": "Tungigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oqshom gulidek suluv qiz"
+  },
+  {
+    "name": "Tuproqbibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Tuproqdek, arzimas, yomon bola. Chaqaloqni bevaqt o‘lim va ko‘z tegishdan asrash uchun shunday ism beriladim"
+  },
+  {
+    "name": "Turdibibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Turadigan, o‘lmas va baland martabali qiz"
+  },
+  {
+    "name": "Turdigul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek go‘zal qiz sog‘, omon bo‘lsin, yashasin"
+  },
+  {
+    "name": "Turdiniyoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yolvorib, so‘rab olingan bola turadi, yashaydi"
+  },
+  {
+    "name": "Turdinoz",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Nozli, nazokatli qiz tursin, yashasin yoki qar. Turdinozik"
+  },
+  {
+    "name": "Turdinozik",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Muloyim, nozik, xushta’b qiz"
+  },
+  {
+    "name": "Maysatoj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Maysalar ko‘karganda tug‘ilgan qizil xolli qiz"
+  },
+  {
+    "name": "Mehroj",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Yuksak, ulug‘ martaba sohibi, obro‘-e’tiborli, odamlar nazari tushgan, oliy nasab."
+  },
+  {
+    "name": "Melibibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglibibi"
+  },
+  {
+    "name": "Melimirza",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglimirza"
+  },
+  {
+    "name": "Melitoji",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglitoji"
+  },
+  {
+    "name": "Melixo‘ja",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglixo‘ja"
+  },
+  {
+    "name": "Melixol",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Menglixol"
+  },
+  {
+    "name": "Melixurram",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengluxurram"
+  },
+  {
+    "name": "Meliziyo",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Mengliziyo, Mengziyo"
+  },
+  {
+    "name": "Menganor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qizil xolli qiz"
+  },
+  {
+    "name": "Mengbonu",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli bo‘lib tug‘ilgan martabali aslzoda qiz"
+  },
+  {
+    "name": "Mengchori",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Oiladagi to‘rtinchi va xolli farzand"
+  },
+  {
+    "name": "Mengdona",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xoli bor dono, bilimdon bola, dona xolli qiz"
+  },
+  {
+    "name": "Menggul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gul kabi chiroyli, xoldor qiz"
+  },
+  {
+    "name": "Menggulchi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Gul ekuvch yoki gul sotuvchi xolli qiz"
+  },
+  {
+    "name": "Mengjahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Qar. Meng va Jahon"
+  },
+  {
+    "name": "Menglibahor",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Ko‘klam payti tug‘ilgan xoldor qiz"
+  },
+  {
+    "name": "Menglibibi",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xol bilan tug‘ilgan obro‘li, izzatli qiz"
+  },
+  {
+    "name": "Mengligul",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Guldek ko‘rkam, xolli qiz"
+  },
+  {
+    "name": "Menglijahon",
+    "nat": "O‘zbekcha",
+    "nameDesc": "Xolli qizning umri uzoq bo‘lsin"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Bo‘lis",
+    "nat": "Ruscha",
+    "nameDesc": "Hokim, boshliq, viloyat hokimi"
+  },
+  {
+    "name": "Chervon, Chervonoy",
+    "nat": "Ruscha",
+    "nameDesc": "Qimmatli, aziz, topilmas, noyob"
+  },
+  {
+    "name": "Kanalboy",
+    "nat": "Ruscha",
+    "nameDesc": "Umri kanaldek oqib tursin, umri uzoq bo‘lsin yoki kanal qazilayotgan paytda tug‘ilgan bola"
+  },
+  {
+    "name": "Kanalxon",
+    "nat": "Ruscha",
+    "nameDesc": "Umri kanaldek oqib tursin, umri uzoq bo‘lsin yoki kanal qazilayotgan paytda tug‘ilgan qiz"
+  },
+  {
+    "name": "Maygul",
+    "nat": "Ruscha",
+    "nameDesc": "May oyida tug‘ilgan yoki mayda ochilgan gul kabi chiroyli qiz"
+  },
+  {
+    "name": "Mayisa",
+    "nat": "Ruscha",
+    "nameDesc": "May oyida tug‘ilgan qiz"
+  },
+  {
+    "name": "Mayxon",
+    "nat": "Ruscha",
+    "nameDesc": "May, ko‘klam qizi"
+  },
+  {
+    "name": "Moygul",
+    "nat": "Ruscha",
+    "nameDesc": "May oyida tug‘ilgan guldek ko‘rkam qiz yoki qar. Mohigul"
+  },
+  {
+    "name": "Zarema",
+    "nat": "Ruscha",
+    "nameDesc": "“Jahon inqilobi uchun“ iborasining qisqartmasi yoki past, tuban, yomon qiz. Yomon ko‘zlardan asrash uchun shunday aytiladi"
+  }
+]
